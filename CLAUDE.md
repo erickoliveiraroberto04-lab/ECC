@@ -49,6 +49,7 @@ The project is organized into several core components:
 - `/build-fix` - Fix build errors
 - `/learn` - Extract patterns from sessions
 - `/skill-create` - Generate skills from git history
+- `npx skills add Leonxlnx/taste-skill` - Install the design-taste skill pack (brandkit, gpt-taste, design-taste-frontend, minimalist-ui, industrial-brutalist-ui, etc.)
 
 ## Development Notes
 
