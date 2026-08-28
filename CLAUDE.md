@@ -50,6 +50,7 @@ The project is organized into several core components:
 - `/learn` - Extract patterns from sessions
 - `/skill-create` - Generate skills from git history
 - `npx skills add Leonxlnx/taste-skill` - Install the design-taste skill pack (brandkit, gpt-taste, design-taste-frontend, minimalist-ui, industrial-brutalist-ui, etc.)
+- `npx skills add vercel-labs/agent-skills -s web-design-guidelines -s vercel-react-view-transitions -s vercel-react-best-practices -s vercel-composition-patterns` - Install Vercel's design/animation skills (UI guideline audits, React View Transition animations, React/Next.js performance, composition patterns)
 
 ## Development Notes
 
