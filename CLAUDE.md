@@ -51,6 +51,8 @@ The project is organized into several core components:
 - `/skill-create` - Generate skills from git history
 - `npx skills add Leonxlnx/taste-skill` - Install the design-taste skill pack (brandkit, gpt-taste, design-taste-frontend, minimalist-ui, industrial-brutalist-ui, etc.)
 - `npx skills add vercel-labs/agent-skills -s web-design-guidelines -s vercel-react-view-transitions -s vercel-react-best-practices -s vercel-composition-patterns` - Install Vercel's design/animation skills (UI guideline audits, React View Transition animations, React/Next.js performance, composition patterns)
+- `npx skills add vercel-labs/agent-skills -s vercel-optimize -s deploy-to-vercel` - Install Vercel performance/cost auditing and site deployment skills
+- `npx skills add anthropics/skills -s algorithmic-art` - Install Anthropic's interactive/generative canvas art skill (p5.js)
 
 ## Development Notes
 
