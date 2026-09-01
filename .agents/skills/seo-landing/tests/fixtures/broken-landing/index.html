@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Broken fixture</title>
+</head>
+<body>
+<!-- Intentional failure 1 (W3C gate): duplicate attribute on the same element. -->
+<p class="lead" class="duplicate">This paragraph carries the same attribute twice.</p>
+
+<!-- Intentional failure 2 (asset gate): references a local file that does not exist. -->
+<img src="images/missing-hero.avif" alt="Missing asset" width="640" height="360">
+
+<!-- Intentional failure 3 (JSON-LD gate): trailing comma makes the block invalid JSON. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Broken Fixture",
+}
+</script>
+
+<!-- Intentional failure 4 (Lighthouse gate): text with ~1.4:1 contrast ratio. -->
+<p style="color:#dddddd;background:#ffffff">Nearly invisible low-contrast text.</p>
+</body>
+</html>

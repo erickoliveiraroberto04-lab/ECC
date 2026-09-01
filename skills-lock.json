@@ -7,6 +7,12 @@
       "skillPath": "skills/academy-guide/SKILL.md",
       "computedHash": "07075be5acc7c54fd6b06a1e7636608fa195b83eb98cbddb02e61b9ac1356889"
     },
+    "accessibility": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "github",
+      "skillPath": "skills/accessibility/SKILL.md",
+      "computedHash": "612f913bcb03f0787b103c848cd7664b676a9aaf31f25d3270cc69cf5caaab95"
+    },
     "agent-browser": {
       "source": "vercel-labs/agent-browser",
       "sourceType": "github",
@@ -31,6 +37,12 @@
       "skillPath": "skills/algorithmic-art/SKILL.md",
       "computedHash": "b2ca295de7f9c86c444f1fa21239e22e0eb7013ced1c652169b9402cc96ff744"
     },
+    "api-testing": {
+      "source": "naodeng/awesome-qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/en/testing-types/api-testing/SKILL.md",
+      "computedHash": "67229cff3c901c4b873d7e271197c33b536239e610062eb222144c6281fe4ae2"
+    },
     "ask-matt": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -42,6 +54,12 @@
       "sourceType": "github",
       "skillPath": "skills/disciplines/audio-design/SKILL.md",
       "computedHash": "1679bac2774f5734ef565475be975fd322aaaba87887145118a0b1abc4b84c0c"
+    },
+    "backup-and-disaster-recovery": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/backup-and-disaster-recovery/SKILL.md",
+      "computedHash": "2b92556780438ec0d25a463282b71b2fb50d0e68067777a12bd166fba2c690cb"
     },
     "banner-design": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -73,6 +91,12 @@
       "skillPath": "skills/brandkit/SKILL.md",
       "computedHash": "b63012f3c3d21197e0185d3e9cc7ec40c589fb10e0b5a32a561739de31aa3f20"
     },
+    "calculator-design": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/calculator-design/SKILL.md",
+      "computedHash": "f1596565dd9f152b0b1bfcf5be26414101aa11488aa307cd7010eae4767bbd0b"
+    },
     "claude-handoff": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -91,6 +115,24 @@
       "skillPath": "skills/engineering/codebase-design/SKILL.md",
       "computedHash": "5a17552cc1482f1a40124bf4e6c9dbd90ac0dbb47e71c07d47369f9e5f2ae3b5"
     },
+    "core-web-vitals": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "github",
+      "skillPath": "skills/core-web-vitals/SKILL.md",
+      "computedHash": "601b2cbb920fb0ea9814a3f11232d7883e1eb0923865218502ab1d73e9fc5172"
+    },
+    "cost-optimization": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cost-optimization/SKILL.md",
+      "computedHash": "c03079acb2c14ab621b743189a5aa8a4e58e4c9fc8ea0913490975c126a5a513"
+    },
+    "dependency-management": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/dependency-management/SKILL.md",
+      "computedHash": "5c6e4db57b4568323728413ba16ac22dea5fd496a9853c4360cdbc966fdd0faf"
+    },
     "deploy-to-vercel": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
@@ -108,6 +150,12 @@
       "sourceType": "github",
       "skillPath": ".claude/skills/design-suite/SKILL.md",
       "computedHash": "d558512a30afe0ec4c636c3c43d53bbddad83b23ddd8031f4abe58bd2a62cb3e"
+    },
+    "design-system": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-system/SKILL.md",
+      "computedHash": "30bec36072af69f8956e16a51ecef7585a5fbb1ead748a83e59baafecde6ce0e"
     },
     "design-taste-frontend": {
       "source": "Leonxlnx/taste-skill",
@@ -139,6 +187,12 @@
       "skillPath": "skills/doc-coauthoring/SKILL.md",
       "computedHash": "b964e4c3ffe13f66f76dd7919073e60c7aec622cd8a8363bb36323188100cf8e"
     },
+    "documentation-strategy": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/documentation-strategy/SKILL.md",
+      "computedHash": "313a785362eae47da12ffb2e5bc6a20155cba2393eb22881184f17fc3e0c404b"
+    },
     "domain-modeling": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -151,11 +205,29 @@
       "skillPath": "SKILL.md",
       "computedHash": "29d731d0448c512cf6d596e83c38572e300ac4ab7a9fc1e3dad6e887fd718ba0"
     },
+    "feature-flagging": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/feature-flagging/SKILL.md",
+      "computedHash": "51fd80db724a42c2adb7b87df81b28cf4c595c775fa898691c00322afb9c8ac6"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
+    "form-strategy": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/form-strategy/SKILL.md",
+      "computedHash": "5c9a5fad0deb4d6beb6dbaeeda201e02def70932b73abc1e77de266268da7ae5"
+    },
+    "frontend-component-build": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-component-build/SKILL.md",
+      "computedHash": "73ac875dcd8af12a835a22970150e7d08fca625d3491032efed07d7968320d5d"
     },
     "frontend-design": {
       "source": "anthropics/skills",
@@ -169,11 +241,29 @@
       "skillPath": "skills/output-skill/SKILL.md",
       "computedHash": "26bd29ce4c5e02c7666b2d503609bf466bd32290822e91f0e984147048dbb924"
     },
+    "functional-testing": {
+      "source": "naodeng/awesome-qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/en/testing-types/functional-testing/SKILL.md",
+      "computedHash": "566a217736c53e4d7d47a3b92ae296e4f456742f6a4adcec84916021396e4b55"
+    },
+    "funnel-flow-architecture": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/funnel-flow-architecture/SKILL.md",
+      "computedHash": "bc79b6c39382bda3292bcc40246ff78baee83e16b4241f67ee67128a2f44c91f"
+    },
     "game-ai": {
       "source": "gamedev-skills/awesome-gamedev-agent-skills",
       "sourceType": "github",
       "skillPath": "skills/disciplines/game-ai/SKILL.md",
       "computedHash": "7730b795e9a3633b70b0bde36848c23aff1d6a6b5a57f4aa756a88303dff48a1"
+    },
+    "generate-ui-from-brand": {
+      "source": "dembrandt/dembrandt-skills",
+      "sourceType": "github",
+      "skillPath": "skills/generate-ui-from-brand/SKILL.md",
+      "computedHash": "4529ee40e07babf4e7bf81d025b3da522b74138eb49431f4e3f9c6ff3615fe47"
     },
     "git-guardrails-claude-code": {
       "source": "mattpocock/skills",
@@ -259,17 +349,47 @@
       "skillPath": "skills/brutalist-skill/SKILL.md",
       "computedHash": "8fc355c4aadb7d29c53ca28bc41be3cd6eea765d121e3737c4dc2d0f90a8effa"
     },
+    "information-architecture": {
+      "source": "dembrandt/dembrandt-skills",
+      "sourceType": "github",
+      "skillPath": "skills/information-architecture/SKILL.md",
+      "computedHash": "046d03be3ec85828d32c719411f5921ec33ed2fdfa2e03435069168d9c4666a2"
+    },
+    "integration-orchestrator": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/integration-orchestrator/SKILL.md",
+      "computedHash": "463285be1a9c58267e768de3286e9998c810d5d47e4b9f84a60457c70ae551a5"
+    },
     "internal-comms": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/internal-comms/SKILL.md",
       "computedHash": "0bdc8867452b7ab9ef6167f6b0db2025ce5fb03773d3f85efcef2dfeb9d4976d"
     },
+    "internationalization": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/internationalization/SKILL.md",
+      "computedHash": "5811b5d292300aafc1669c8424ebe39f5507e89dd565a3eb4169a2f16d1c82b7"
+    },
+    "layout-paradigms-and-consistency": {
+      "source": "dembrandt/dembrandt-skills",
+      "sourceType": "github",
+      "skillPath": "skills/layout-paradigms-and-consistency/SKILL.md",
+      "computedHash": "f1e6da4502488ac5b76d63b037fee6600f3b769cd8e0d2beaf07d7c4179c99a8"
+    },
     "loop-me": {
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/in-progress/loop-me/SKILL.md",
       "computedHash": "72e01a16929dbf6583afc469a49d64b28b1be4a6034c900decd94cd5a69ba6e6"
+    },
+    "material-design-3-ui": {
+      "source": "skydashnet/material-design-3-ui-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "a4541d1c97d3b09909fa46e5ae1a15dba3e3691915f75b04067ae49af0886cd3"
     },
     "mcp-builder": {
       "source": "anthropics/skills",
@@ -289,17 +409,41 @@
       "skillPath": "skills/minimalist-skill/SKILL.md",
       "computedHash": "08873a3131d3be27bef9bf3304b310b16b44ca6e3561aebe532797be3443f6bd"
     },
+    "monitoring-and-alerting": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/monitoring-and-alerting/SKILL.md",
+      "computedHash": "7d6d87ae8464db31cb0f7b4c13cdecda6995a1456ffaabe8204e1716bacfccd2"
+    },
     "multi-agent-orchestration": {
       "source": "seb1n/awesome-ai-agent-skills",
       "sourceType": "github",
       "skillPath": "agent-engineering/multi-agent-orchestration/SKILL.md",
       "computedHash": "19f955f9574a6b96f9d9c2d72e2b3b004baaaf01f81524ac8491642ae6325346"
     },
+    "multi-step-form-design": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/multi-step-form-design/SKILL.md",
+      "computedHash": "48367e165f05193e63455094ac6997af1f88d757b4c6bdcd50d20d69fd300454"
+    },
+    "onboarding-wizard-design": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/onboarding-wizard-design/SKILL.md",
+      "computedHash": "df03bbde5ede735ce7e2b5d4a3413a0fffea8ad3771acefff9fea7f7f7e9c93a"
+    },
     "paper-search-pro": {
       "source": "O0000-code/paper-search-pro",
       "sourceType": "github",
       "skillPath": "SKILL.md",
       "computedHash": "ebc7fccc8246265db05cc121fb497e4d23e1729ed7963e744f6fc65ad674496c"
+    },
+    "product-analytics-setup": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/product-analytics-setup/SKILL.md",
+      "computedHash": "579887e44eba9df1675d0fc495cf4eeb500b349a5887d9b758a134bfc9d7626b"
     },
     "prototype": {
       "source": "mattpocock/skills",
@@ -342,6 +486,42 @@
       "sourceType": "github",
       "skillPath": "skills/misc/scaffold-exercises/SKILL.md",
       "computedHash": "354c91f6dbc9b058632f30594aacb4edc6d25012596585abb00402af8d7ec5e9"
+    },
+    "scrollcraft": {
+      "source": "nateherkai/scroll-craft",
+      "sourceType": "github",
+      "skillPath": "plugins/nateherk-design/skills/scrollcraft/SKILL.md",
+      "computedHash": "e3cc645f88fc987a13f21544837d9c29596c0633511787c9dbd180d8238e867b"
+    },
+    "security-baseline": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/security-baseline/SKILL.md",
+      "computedHash": "a65f55c194b29fe7151837f9dea7e6afb1fe3be61af03375812b1063550264f6"
+    },
+    "seo": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "github",
+      "skillPath": "skills/seo/SKILL.md",
+      "computedHash": "01a735ac18ceb15536ac40b11a5712b3ab8f78ebe94748b3ebc3afc7f58a6f2f"
+    },
+    "seo-landing": {
+      "source": "aleksandr-alhoff/seo-landing",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "187003515b0eb3c805a409c1e2dad9208fddb918e88e40befcbc33a6a1ea47b8"
+    },
+    "seo-onpage": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/seo-onpage/SKILL.md",
+      "computedHash": "5df7c31cc4c6c34e7e14c6d1a27dcfba1f9e40266c62733454075e94868094fc"
+    },
+    "seo-site-health-audit": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/seo-site-health-audit/SKILL.md",
+      "computedHash": "840b87233c289774b09eb2fdc1d7af0a4c4941f4e9f50fd537a681341b0328e0"
     },
     "setup-matt-pocock-skills": {
       "source": "mattpocock/skills",
