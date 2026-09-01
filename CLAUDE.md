@@ -57,6 +57,7 @@ The project is organized into several core components:
 - `npx skills add https://github.com/anthropics/skills --skill frontend-design` - Install Anthropic's frontend-design skill (aesthetic direction/typography guidance to avoid templated-looking UI)
 - `npx skills add https://github.com/mattpocock/skills --skill grill-me` - Install Matt Pocock's grill-me skill (relentless interview to sharpen a plan/design before building it)
 - `npx skills add https://github.com/mattpocock/skills --skill grilling` - Install the companion `grilling` skill that `grill-me` depends on (the reusable round-by-round interview primitive)
+- `npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browser` - Install Vercel's browser-automation CLI skill (navigate pages, fill forms, screenshots, scraping, Electron/Slack automation); requires separately installing the CLI with `npm i -g agent-browser && agent-browser install`, and pre-authorizes `agent-browser`/`npx agent-browser` Bash commands
 
 ## Development Notes
 
