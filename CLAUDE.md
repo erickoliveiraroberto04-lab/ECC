@@ -58,6 +58,7 @@ The project is organized into several core components:
 - `npx skills add https://github.com/mattpocock/skills --skill grill-me` - Install Matt Pocock's grill-me skill (relentless interview to sharpen a plan/design before building it)
 - `npx skills add https://github.com/mattpocock/skills --skill grilling` - Install the companion `grilling` skill that `grill-me` depends on (the reusable round-by-round interview primitive)
 - `npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browser` - Install Vercel's browser-automation CLI skill (navigate pages, fill forms, screenshots, scraping, Electron/Slack automation); requires separately installing the CLI with `npm i -g agent-browser && agent-browser install`, and pre-authorizes `agent-browser`/`npx agent-browser` Bash commands
+- `npx skills add https://github.com/skills-101/superpowers --skill ai-video-generation` - Install AI video generation skill (Veo, Seedance, HappyHorse, Wan, Grok, etc. via the inference.sh `belt` CLI); requires separately installing `npx skills add belt-sh/cli` plus `belt login` (paid third-party service — real cost per generation), and pre-authorizes any `belt *` Bash command
 
 ## Development Notes
 
