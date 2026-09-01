@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "usage": {
+    "reading-order": "Read this index first; shortlist at most 3 styles by formality, density, scheme, and mood against the occasion; read only the shortlisted preview.md files; read design.md only for the single chosen style.",
+    "never-bulk-read": "Never read all design.md files. One projection, one design.md.",
+    "single-file": "Every projection is one self-contained HTML file: no external scripts, no external stylesheets, no imports.",
+    "no-external-requests": "Zero network requests at view time: system font stacks only, no CDN, no remote images or fonts.",
+    "sanitize-untrusted": "Card titles, bodies, and frontmatter values are untrusted input: escape when interpolating, sanitize any rendered markdown, guard script-tag breakout in embedded JSON.",
+    "dual-scheme": "Both light and dark must be styled (prefers-color-scheme plus a data-theme toggle); every style ships both palettes.",
+    "canvas-renderings": "Styles are canvas-agnostic. An entry's canvas_renderings lists canvases with a bespoke '### <canvas>' section in its design.md; absent canvases use that canvas's default presentation. The content-to-accent binding lives in SKILL.md."
+  },
+  "styles": [
+    {
+      "slug": "notebook-tabs",
+      "name": "Notebook Tabs",
+      "tagline": "Cream sheet on a dark desk, serif display, pastel index tabs as wayfinding.",
+      "mood": [
+        "editorial",
+        "tactile",
+        "warm"
+      ],
+      "tone": "polished",
+      "formality": "neutral",
+      "density": "comfortable",
+      "scheme": "light",
+      "best_for": [
+        "editorial shareouts",
+        "reading-heavy reviews"
+      ],
+      "avoid_for": [
+        "dense dashboards",
+        "hard-edged engineering readouts"
+      ],
+      "preview": "notebook-tabs/preview.md",
+      "design": "notebook-tabs/design.md",
+      "canvas_renderings": [
+        "tabbed-gallery",
+        "single-canvas"
+      ]
+    },
+    {
+      "slug": "swiss-modern",
+      "name": "Swiss Modern",
+      "tagline": "White, black, one fire red: visible grid, heavy uppercase type.",
+      "mood": [
+        "severe",
+        "graphic",
+        "precise"
+      ],
+      "tone": "assertive",
+      "formality": "formal",
+      "density": "comfortable",
+      "scheme": "light",
+      "best_for": [
+        "design reviews",
+        "manifesto-grade readouts"
+      ],
+      "avoid_for": [
+        "warm workshops",
+        "long comfortable reading"
+      ],
+      "preview": "swiss-modern/preview.md",
+      "design": "swiss-modern/design.md",
+      "canvas_renderings": [
+        "tabbed-gallery",
+        "single-canvas"
+      ]
+    },
+    {
+      "slug": "block-frame",
+      "name": "BlockFrame",
+      "tagline": "Neobrutalist candy pastels in chunky black borders with hard offset shadows.",
+      "mood": [
+        "bold",
+        "playful",
+        "graphic"
+      ],
+      "tone": "confident",
+      "formality": "playful",
+      "density": "compact",
+      "scheme": "light",
+      "best_for": [
+        "launch decks",
+        "agency-grade reviews",
+        "contemporary confident readouts"
+      ],
+      "avoid_for": [
+        "quiet institutional restraint",
+        "regulated formal documents"
+      ],
+      "preview": "block-frame/preview.md",
+      "design": "block-frame/design.md",
+      "canvas_renderings": [
+        "tabbed-gallery",
+        "single-canvas"
+      ]
+    },
+    {
+      "slug": "8-bit-orbit",
+      "name": "8-Bit Orbit",
+      "tagline": "Pixel-arcade neon on deep navy: chunky borders, hard shadows, world-select.",
+      "mood": [
+        "playful",
+        "retro-tech",
+        "energetic"
+      ],
+      "tone": "geeky",
+      "formality": "playful",
+      "density": "comfortable",
+      "scheme": "dark",
+      "best_for": [
+        "hackathon demos",
+        "launch teasers"
+      ],
+      "avoid_for": [
+        "formal decision readouts",
+        "print-bound documents"
+      ],
+      "preview": "8-bit-orbit/preview.md",
+      "design": "8-bit-orbit/design.md",
+      "canvas_renderings": [
+        "tabbed-gallery",
+        "single-canvas"
+      ]
+    },
+    {
+      "slug": "pin-and-paper",
+      "name": "Pin & Paper",
+      "tagline": "Bright yellow paper, handwritten ink blue, pinned notes and kraft blocks set slightly askew.",
+      "mood": [
+        "playful",
+        "handmade",
+        "energetic"
+      ],
+      "tone": "casual",
+      "formality": "playful",
+      "density": "comfortable",
+      "scheme": "light",
+      "best_for": [
+        "workshops and brainstorm readouts",
+        "zine-flavored idea shares"
+      ],
+      "avoid_for": [
+        "formal executive reviews",
+        "dense data tables"
+      ],
+      "preview": "pin-and-paper/preview.md",
+      "design": "pin-and-paper/design.md",
+      "canvas_renderings": [
+        "tabbed-gallery",
+        "single-canvas"
+      ]
+    }
+  ]
+}

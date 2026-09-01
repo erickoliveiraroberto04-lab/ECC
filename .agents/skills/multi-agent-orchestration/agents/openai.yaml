@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-Agent Orchestration"
+  short_description: "Design safe, efficient multi-agent workflows"
+  default_prompt: "Use $multi-agent-orchestration to design a coordinated agent workflow for this task."

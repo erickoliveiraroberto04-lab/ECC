@@ -13,6 +13,12 @@
       "skillPath": "skills/agent-browser/SKILL.md",
       "computedHash": "dd491d53824ad9286ec950aee667098446332429a6d41fe28b4ba11f1959264c"
     },
+    "agent-red-teaming": {
+      "source": "seb1n/awesome-ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "agent-security/agent-red-teaming/SKILL.md",
+      "computedHash": "b39edc08b8371c743547c00f9504b7fa10103d40190fc264bb4cddeebce598c4"
+    },
     "ai-video-generation": {
       "source": "skills-101/superpowers",
       "sourceType": "github",
@@ -31,6 +37,12 @@
       "skillPath": "skills/engineering/ask-matt/SKILL.md",
       "computedHash": "0cd14026efa0330083cbc7adf590976c162b60e02f696a8dcce96f0b4dab8a72"
     },
+    "audio-design": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/disciplines/audio-design/SKILL.md",
+      "computedHash": "1679bac2774f5734ef565475be975fd322aaaba87887145118a0b1abc4b84c0c"
+    },
     "banner-design": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
@@ -42,6 +54,12 @@
       "sourceType": "github",
       "skillPath": ".agents/skills/belt/SKILL.md",
       "computedHash": "ca4ce5eac764749f1f0cc67a94d464c3f66ba687bc9fa315949174770e5fc172"
+    },
+    "better-icons": {
+      "source": "mxyhi/ok-skills",
+      "sourceType": "github",
+      "skillPath": "better-icons/SKILL.md",
+      "computedHash": "656a618d6d5d5e9c567253eff57a06bee3be5d4fb983bdc401a46a209c5b76de"
     },
     "brand": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -78,6 +96,12 @@
       "sourceType": "github",
       "skillPath": "skills/deploy-to-vercel/SKILL.md",
       "computedHash": "d2b5bcc7c09fdb649129ffc7dd7b647ec1b155736974b974292675afd588cb39"
+    },
+    "design-harness": {
+      "source": "tigerless-labs/design-harness",
+      "sourceType": "github",
+      "skillPath": "plugins/design-harness/skills/design-harness/SKILL.md",
+      "computedHash": "7f576ace484f75202b22313eec7e35bc90e5b987832c57e38dd1dab9b40cb7ac"
     },
     "design-suite": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -121,6 +145,12 @@
       "skillPath": "skills/engineering/domain-modeling/SKILL.md",
       "computedHash": "a11713c0ff7870efa3c331b2e273f09116158485246edc89ae5088eefd1b0b48"
     },
+    "ecommerce-visual-copywriting": {
+      "source": "feichanggege/ecommerce-visual-copywriting-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "29d731d0448c512cf6d596e83c38572e300ac4ab7a9fc1e3dad6e887fd718ba0"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
@@ -138,6 +168,12 @@
       "sourceType": "github",
       "skillPath": "skills/output-skill/SKILL.md",
       "computedHash": "26bd29ce4c5e02c7666b2d503609bf466bd32290822e91f0e984147048dbb924"
+    },
+    "game-ai": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/disciplines/game-ai/SKILL.md",
+      "computedHash": "7730b795e9a3633b70b0bde36848c23aff1d6a6b5a57f4aa756a88303dff48a1"
     },
     "git-guardrails-claude-code": {
       "source": "mattpocock/skills",
@@ -253,6 +289,18 @@
       "skillPath": "skills/minimalist-skill/SKILL.md",
       "computedHash": "08873a3131d3be27bef9bf3304b310b16b44ca6e3561aebe532797be3443f6bd"
     },
+    "multi-agent-orchestration": {
+      "source": "seb1n/awesome-ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "agent-engineering/multi-agent-orchestration/SKILL.md",
+      "computedHash": "19f955f9574a6b96f9d9c2d72e2b3b004baaaf01f81524ac8491642ae6325346"
+    },
+    "paper-search-pro": {
+      "source": "O0000-code/paper-search-pro",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "ebc7fccc8246265db05cc121fb497e4d23e1729ed7963e744f6fc65ad674496c"
+    },
     "prototype": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -282,6 +330,12 @@
       "sourceType": "github",
       "skillPath": "skills/in-progress/retro/SKILL.md",
       "computedHash": "b9bd2e5e0378214bf54d2a293df50490669b845a4c2a71c8f747ce8ab365f53a"
+    },
+    "robotics-design-patterns": {
+      "source": "arpitg1304/robotics-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/robotics-design-patterns/SKILL.md",
+      "computedHash": "45a96f3dbdc2ce75a71216a478449ff5f451e253088e26575c0106340a227269"
     },
     "scaffold-exercises": {
       "source": "mattpocock/skills",
@@ -360,6 +414,12 @@
       "sourceType": "github",
       "skillPath": "skills/engineering/to-tickets/SKILL.md",
       "computedHash": "bf5e6ebcb4f1272de0c188d5b3901f265a03d1fa9935a21a7a56938e21e2e761"
+    },
+    "tool-schema-design": {
+      "source": "seb1n/awesome-ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "agent-engineering/tool-schema-design/SKILL.md",
+      "computedHash": "95bb345afe67ca0b13863037fe19906c65a7db92ce3bbac922eb60ad95a6ffc0"
     },
     "triage": {
       "source": "mattpocock/skills",

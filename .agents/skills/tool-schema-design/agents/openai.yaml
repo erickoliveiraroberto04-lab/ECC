@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tool Schema Design"
+  short_description: "Design and validate agent tool schemas"
+  default_prompt: "Use $tool-schema-design to create a precise tool schema for this integration."
