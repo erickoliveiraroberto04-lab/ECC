@@ -53,6 +53,7 @@ The project is organized into several core components:
 - `npx skills add vercel-labs/agent-skills -s web-design-guidelines -s vercel-react-view-transitions -s vercel-react-best-practices -s vercel-composition-patterns` - Install Vercel's design/animation skills (UI guideline audits, React View Transition animations, React/Next.js performance, composition patterns)
 - `npx skills add vercel-labs/agent-skills -s vercel-optimize -s deploy-to-vercel` - Install Vercel performance/cost auditing and site deployment skills
 - `npx skills add anthropics/skills -s algorithmic-art` - Install Anthropic's interactive/generative canvas art skill (p5.js)
+- `npx skills add https://github.com/vercel-labs/skills --skill find-skills` - Install Vercel's skill-discovery skill (helps find/install other skills on request)
 
 ## Development Notes
 

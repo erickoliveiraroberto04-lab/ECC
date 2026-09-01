@@ -31,6 +31,12 @@
       "skillPath": "skills/deploy-to-vercel/SKILL.md",
       "computedHash": "d2b5bcc7c09fdb649129ffc7dd7b647ec1b155736974b974292675afd588cb39"
     },
+    "design-suite": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design-suite/SKILL.md",
+      "computedHash": "d558512a30afe0ec4c636c3c43d53bbddad83b23ddd8031f4abe58bd2a62cb3e"
+    },
     "design-taste-frontend": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
@@ -42,6 +48,12 @@
       "sourceType": "github",
       "skillPath": "skills/taste-skill-v1/SKILL.md",
       "computedHash": "d704ab912c4d0ca954ffa858983da755ae4cd5cad9ba22554db5557382f5bd34"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
     },
     "full-output-enforcement": {
       "source": "Leonxlnx/taste-skill",
@@ -150,12 +162,6 @@
       "sourceType": "github",
       "skillPath": "skills/web-design-guidelines/SKILL.md",
       "computedHash": "a6a44d5498f7e8f68289902f3dedfc6f38ae0cee1e96527c80724cf27f727c2a"
-    },
-    "design-suite": {
-      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "sourceType": "github",
-      "skillPath": ".claude/skills/design-suite/SKILL.md",
-      "computedHash": "d558512a30afe0ec4c636c3c43d53bbddad83b23ddd8031f4abe58bd2a62cb3e"
     }
   }
 }
