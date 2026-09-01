@@ -55,6 +55,7 @@ The project is organized into several core components:
 - `npx skills add anthropics/skills -s algorithmic-art` - Install Anthropic's interactive/generative canvas art skill (p5.js)
 - `npx skills add https://github.com/vercel-labs/skills --skill find-skills` - Install Vercel's skill-discovery skill (helps find/install other skills on request)
 - `npx skills add https://github.com/anthropics/skills --skill frontend-design` - Install Anthropic's frontend-design skill (aesthetic direction/typography guidance to avoid templated-looking UI)
+- `npx skills add https://github.com/mattpocock/skills --skill grill-me` - Install Matt Pocock's grill-me skill (relentless interview to sharpen a plan/design before building it); depends on the companion `grilling` skill from the same repo, not installed by default
 
 ## Development Notes
 
