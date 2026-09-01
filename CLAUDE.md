@@ -54,6 +54,7 @@ The project is organized into several core components:
 - `npx skills add vercel-labs/agent-skills -s vercel-optimize -s deploy-to-vercel` - Install Vercel performance/cost auditing and site deployment skills
 - `npx skills add anthropics/skills -s algorithmic-art` - Install Anthropic's interactive/generative canvas art skill (p5.js)
 - `npx skills add https://github.com/vercel-labs/skills --skill find-skills` - Install Vercel's skill-discovery skill (helps find/install other skills on request)
+- `npx skills add https://github.com/anthropics/skills --skill frontend-design` - Install Anthropic's frontend-design skill (aesthetic direction/typography guidance to avoid templated-looking UI)
 
 ## Development Notes
 
