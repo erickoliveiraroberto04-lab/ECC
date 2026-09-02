@@ -655,6 +655,12 @@
       "skillPath": "skills/react-view-transitions/SKILL.md",
       "computedHash": "73fddafed488c308ee0799178432801fe10aa338451948ea05f4200541053040"
     },
+    "vgpu": {
+      "source": "vercel-labs/vgpu",
+      "sourceType": "github",
+      "skillPath": "skills/vgpu/SKILL.md",
+      "computedHash": "83381ee2659b8f3240ae395e9295873a1c864142d1200bd60df5e0c57d5099b8"
+    },
     "wait-what": {
       "source": "mattpocock/skills",
       "sourceType": "github",

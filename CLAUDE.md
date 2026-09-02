@@ -81,6 +81,7 @@ The project is organized into several core components:
 - `npx skills add addyosmani/web-quality-skills -s accessibility -s core-web-vitals -s seo` - Install 3 web-quality skills from Addy Osmani (Google Chrome team): WCAG 2.2 accessibility audits, Core Web Vitals (LCP/INP/CLS) optimization, and search-visibility SEO
 - `npx skills add aleksandr-alhoff/seo-landing -s seo-landing` - Install a technical-SEO landing-page skill (100/100 PageSpeed target, schema.org JSON-LD, zero external dependencies); includes real before/after case-study benchmarks from the author's own client work
 - `npx skills add naodeng/awesome-qa-skills -s api-testing -s functional-testing` - Install 2 QA-testing skills (REST/GraphQL/gRPC API test-plan design, functional test-plan design for business flows/UI/data/integrations) from a bilingual (zh/en) testing-skills library
+- `npx skills add vercel-labs/vgpu -s vgpu` - Install the skill bundled with Vercel's `vgpu` package (modular cross-runtime WebGPU library): guidance for shaders, 3D scenes, GPU tensors, neural networks and math viz, with API reference docs loaded one at a time
 
 ## Development Notes
 
