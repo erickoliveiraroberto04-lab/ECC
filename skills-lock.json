@@ -55,6 +55,12 @@
       "skillPath": "skills/03-exploit-development/SKILL.md",
       "computedHash": "41abc9922dfdbfbe82fbafca5978bd5924646e1396b23fd0a8b7b40dbd8ea80f"
     },
+    "Full Restaurant Audit Orchestrator": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-audit/SKILL.md",
+      "computedHash": "91d00151488ab86be6c13c3f3f189e293512da320d4050db44ae71f86deadfb3"
+    },
     "GRC & Compliance": {
       "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
       "sourceType": "github",
@@ -930,6 +936,84 @@
       "sourceType": "github",
       "skillPath": "skills/engineering/resolving-merge-conflicts/SKILL.md",
       "computedHash": "63b2dcadbe9124caeb3448f1378286fe18dcefb2494f60e136831b8b4986ca27"
+    },
+    "restaurant-ads": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-ads/SKILL.md",
+      "computedHash": "803078f13ebba949d0ec97b8c960a5ea402260c71c8c727eb86b0e112b924bcd"
+    },
+    "restaurant-competitors": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-competitors/SKILL.md",
+      "computedHash": "cd7aa2d31670f9584d4be6088112d1bce7ae62077457062e8dd7392164c5c877"
+    },
+    "restaurant-email": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-email/SKILL.md",
+      "computedHash": "d0d37391b5b851bfb8481f9d3b53678a99dc5616f97d401c864ab8770cd294e4"
+    },
+    "restaurant-local-seo": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-local-seo/SKILL.md",
+      "computedHash": "cd505dea594eb9823a40894c38d3c8cff1fc5e181636b8ff52294343d0ae259d"
+    },
+    "restaurant-menu": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-menu/SKILL.md",
+      "computedHash": "7ef06a187a7ee97ecc49d5094473eb27b210b1155fe88b66ba90fcf103cdea6b"
+    },
+    "restaurant-online": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-online/SKILL.md",
+      "computedHash": "8fa6823b8fbf2603b8347ebdf6321e6a800313071c4e0b019556f653506d5a31"
+    },
+    "restaurant-photos": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-photos/SKILL.md",
+      "computedHash": "1f78b1ed416967746e5263125075b8bef34c7d57136f677e198d634dafb0bb49"
+    },
+    "restaurant-pricing": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-pricing/SKILL.md",
+      "computedHash": "5ca9364fd8fa9549ed2541c37f3e25e8100ff1eeca3a81652db1a29c00cffc7c"
+    },
+    "restaurant-quick": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-quick/SKILL.md",
+      "computedHash": "2c31502a80750149eb59a6661b2579cf3c49f81f8a0c0c3387d56d2dd3021da4"
+    },
+    "restaurant-report-pdf": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-report-pdf/SKILL.md",
+      "computedHash": "5c1304bec65f64f202e00622d2ddca68af058f760e526443aa2a5579a2e98305"
+    },
+    "restaurant-respond": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-respond/SKILL.md",
+      "computedHash": "8c9581fe4b028fd672f3c5f3d94b86f29bae040878b91818ebabea47c8a552ba"
+    },
+    "restaurant-reviews": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-reviews/SKILL.md",
+      "computedHash": "f4de6e7ffbf07970dc41ccb000b5cb6af385b838b7a88429388ac32502e1b6e4"
+    },
+    "restaurant-social": {
+      "source": "zubair-trabzada/ai-restaurant-claude",
+      "sourceType": "github",
+      "skillPath": "skills/restaurant-social/SKILL.md",
+      "computedHash": "f86454314896372e1322f7b3c3c8f443b19967abf964b9e2597e7d83b99e2401"
     },
     "retro": {
       "source": "mattpocock/skills",
