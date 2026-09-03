@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "academic-research": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "research/academic-research/SKILL.md",
+      "computedHash": "099fc667c9e704d9201e23e54f944e7542a4641a0b4e998c7b8e6a148a7b703c"
+    },
     "academy-guide": {
       "source": "anthropics/skills",
       "sourceType": "github",
@@ -97,11 +103,35 @@
       "skillPath": "skills/calculator-design/SKILL.md",
       "computedHash": "f1596565dd9f152b0b1bfcf5be26414101aa11488aa307cd7010eae4767bbd0b"
     },
+    "cash-flow-snapshot": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/cash-flow-snapshot/SKILL.md",
+      "computedHash": "ea96f62992e7f7144be85c52877471d7409308e122f4469bfd9788c845f2e7f5"
+    },
+    "chapter-writing": {
+      "source": "danjdewhurst/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/chapter-writing/SKILL.md",
+      "computedHash": "63fff73e7c4779d9d84ecad003883a4baed3d88aedebab47ccc11bcc0c92a2b3"
+    },
+    "character-management": {
+      "source": "danjdewhurst/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/character-management/SKILL.md",
+      "computedHash": "3debd36a3da4a430f4f71292280d4824bfab0436234a2ace68be939773062be5"
+    },
     "claude-handoff": {
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/in-progress/claude-handoff/SKILL.md",
       "computedHash": "f8c4754a25aa4e12601ce69db4388bb0d30ca526b225351180c5b0d2a4649a95"
+    },
+    "clean-code": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "clean-code/SKILL.md",
+      "computedHash": "917f01d5f5800f1f575c6701a4a34939647e74c423bd3108e894191abb0593f6"
     },
     "code-review": {
       "source": "mattpocock/skills",
@@ -115,6 +145,12 @@
       "skillPath": "skills/engineering/codebase-design/SKILL.md",
       "computedHash": "5a17552cc1482f1a40124bf4e6c9dbd90ac0dbb47e71c07d47369f9e5f2ae3b5"
     },
+    "continuous-discovery": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "continuous-discovery/SKILL.md",
+      "computedHash": "a3142ce0cfd6bb095fb351de65c984e82fd0d61217b31c0e10f7f432b3452bd0"
+    },
     "core-web-vitals": {
       "source": "addyosmani/web-quality-skills",
       "sourceType": "github",
@@ -126,6 +162,36 @@
       "sourceType": "github",
       "skillPath": "skills/cost-optimization/SKILL.md",
       "computedHash": "c03079acb2c14ab621b743189a5aa8a4e58e4c9fc8ea0913490975c126a5a513"
+    },
+    "cro-methodology": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "cro-methodology/SKILL.md",
+      "computedHash": "4c8b86029d16a16a3a62c45a0bdde2b45caa20e73a26b4e5ef46129615cc1a9c"
+    },
+    "currency-converter": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "research/currency-converter/SKILL.md",
+      "computedHash": "2e357e8946dff56fdcd572f691f5e3a87e8d93477c00e29aa94861051efefce2"
+    },
+    "data-quality-auditor": {
+      "source": "WilliamWJHuang/ab-test-causal-inference-skills",
+      "sourceType": "github",
+      "skillPath": "skills/data-quality-auditor/SKILL.md",
+      "computedHash": "4e324e12cbb2212881622771b8d85d746d2051e792b656efa30b4dc4592fd074"
+    },
+    "data2story": {
+      "source": "QinghongLin/data2story-skill",
+      "sourceType": "github",
+      "skillPath": "skills/data2story/SKILL.md",
+      "computedHash": "c1e97bc19e27493ee6b80f63ae5c4267917773abc05182ce5e5cf573d4bce51d"
+    },
+    "dataviz-craft": {
+      "source": "QinghongLin/data2story-skill",
+      "sourceType": "github",
+      "skillPath": "skills/dataviz-craft/SKILL.md",
+      "computedHash": "fc68228298d7d1592857f6ed71bc176d5bd5630881ce2359188083ff2c32932a"
     },
     "dependency-management": {
       "source": "rampstackco/claude-skills",
@@ -144,6 +210,12 @@
       "sourceType": "github",
       "skillPath": "plugins/design-harness/skills/design-harness/SKILL.md",
       "computedHash": "7f576ace484f75202b22313eec7e35bc90e5b987832c57e38dd1dab9b40cb7ac"
+    },
+    "design-sprint": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "design-sprint/SKILL.md",
+      "computedHash": "a62001708960552d7fba815944a0eb05b20388f01d695de8fc1c351ea1da60dc"
     },
     "design-suite": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -193,6 +265,12 @@
       "skillPath": "skills/documentation-strategy/SKILL.md",
       "computedHash": "313a785362eae47da12ffb2e5bc6a20155cba2393eb22881184f17fc3e0c404b"
     },
+    "domain-driven-design": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "domain-driven-design/SKILL.md",
+      "computedHash": "3a84c4c48b3d1bcdf07e6ba096749679f97915dd6b4f9c87ab8a715b936fed30"
+    },
     "domain-modeling": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -205,11 +283,35 @@
       "skillPath": "SKILL.md",
       "computedHash": "29d731d0448c512cf6d596e83c38572e300ac4ab7a9fc1e3dad6e887fd718ba0"
     },
+    "econ-write": {
+      "source": "hanlulong/econ-writing-skill",
+      "sourceType": "github",
+      "skillPath": "skills/econ-write/SKILL.md",
+      "computedHash": "d578a4ad898901496259d5429be5c0f2630ade1a9361136cedef0d7ffd6b9c85"
+    },
+    "email-validator": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "research/email-validator/SKILL.md",
+      "computedHash": "f5f2276d071458eea8af5056f053b713995fef45ff8d63f2c35df5a17dc450a0"
+    },
+    "experiment-designer": {
+      "source": "WilliamWJHuang/ab-test-causal-inference-skills",
+      "sourceType": "github",
+      "skillPath": "skills/experiment-designer/SKILL.md",
+      "computedHash": "f5c449d5265e56d83f9515d470aba1a36396f6b3fe9b209ef4bd20496ac42c2c"
+    },
     "feature-flagging": {
       "source": "rampstackco/claude-skills",
       "sourceType": "github",
       "skillPath": "skills/feature-flagging/SKILL.md",
       "computedHash": "51fd80db724a42c2adb7b87df81b28cf4c595c775fa898691c00322afb9c8ac6"
+    },
+    "find-data": {
+      "source": "QinghongLin/data2story-skill",
+      "sourceType": "github",
+      "skillPath": "skills/find-data/SKILL.md",
+      "computedHash": "864ed0156a5eb4236520925c88e1917cf1f32ea11fa1a43095dde2438cd4d05c"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -373,11 +475,23 @@
       "skillPath": "skills/internationalization/SKILL.md",
       "computedHash": "5811b5d292300aafc1669c8424ebe39f5507e89dd565a3eb4169a2f16d1c82b7"
     },
+    "jobs-to-be-done": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "jobs-to-be-done/SKILL.md",
+      "computedHash": "d4ec70d690ae20b80664066a55964a9834e4d8134f5812ba6b7fb9104ea7c3b7"
+    },
     "layout-paradigms-and-consistency": {
       "source": "dembrandt/dembrandt-skills",
       "sourceType": "github",
       "skillPath": "skills/layout-paradigms-and-consistency/SKILL.md",
       "computedHash": "f1e6da4502488ac5b76d63b037fee6600f3b769cd8e0d2beaf07d7c4179c99a8"
+    },
+    "lean-startup": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "lean-startup/SKILL.md",
+      "computedHash": "6e0787098217785221c5c11e30130dcc4df9b69798f179f4bfc1b198828f6f18"
     },
     "loop-me": {
       "source": "mattpocock/skills",
@@ -397,6 +511,12 @@
       "skillPath": "skills/mcp-builder/SKILL.md",
       "computedHash": "826e46adf81e1372282e205c34e1a2ee876e72148007726e4a2512599d2fef7b"
     },
+    "meeting-minutes": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/meeting-minutes/SKILL.md",
+      "computedHash": "ad6077fe6a0afc09b9039bb3086221ffd30af9770ece3daf61505ed6796cdf20"
+    },
     "migrate-to-shoehorn": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -408,6 +528,12 @@
       "sourceType": "github",
       "skillPath": "skills/minimalist-skill/SKILL.md",
       "computedHash": "08873a3131d3be27bef9bf3304b310b16b44ca6e3561aebe532797be3443f6bd"
+    },
+    "mom-test": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "mom-test/SKILL.md",
+      "computedHash": "36edab4caab6a1ea4370274c7acaa59d14490408c0bac2eb6909916ec265d3c3"
     },
     "monitoring-and-alerting": {
       "source": "rampstackco/claude-skills",
@@ -439,6 +565,18 @@
       "skillPath": "SKILL.md",
       "computedHash": "ebc7fccc8246265db05cc121fb497e4d23e1729ed7963e744f6fc65ad674496c"
     },
+    "plot-structure": {
+      "source": "danjdewhurst/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/plot-structure/SKILL.md",
+      "computedHash": "97bd7c6985867076a1b53b461db4549fefff4d1e3c2afad17de2b0a67a1cb9b9"
+    },
+    "prd": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/prd/SKILL.md",
+      "computedHash": "0decf0148db41309b89425cd6698c70fc91580907d99578179460b7610451482"
+    },
     "product-analytics-setup": {
       "source": "rampstackco/claude-skills",
       "sourceType": "github",
@@ -451,11 +589,23 @@
       "skillPath": "skills/engineering/prototype/SKILL.md",
       "computedHash": "d3fc74689bd993e39c44bfae510d014eecffbeec2922764b065377fd1327c0f6"
     },
+    "reconciliation": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/reconciliation/SKILL.md",
+      "computedHash": "c17aa9622a8b61b27a54ad6624a6672977e33827748c7ac34e1536b0ff95c217"
+    },
     "redesign-existing-projects": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
       "skillPath": "skills/redesign-skill/SKILL.md",
       "computedHash": "b405eee0e0e80fc243f731d9aa368bca307e356db7e6157d27101d369dac6726"
+    },
+    "refactoring-patterns": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "refactoring-patterns/SKILL.md",
+      "computedHash": "b896bb518a3c6233e93c3a3d319f0e98b9eb0c65813c432e4452d8287942cd1b"
     },
     "research": {
       "source": "mattpocock/skills",
@@ -474,6 +624,12 @@
       "sourceType": "github",
       "skillPath": "skills/in-progress/retro/SKILL.md",
       "computedHash": "b9bd2e5e0378214bf54d2a293df50490669b845a4c2a71c8f747ce8ab365f53a"
+    },
+    "revision-continuity": {
+      "source": "danjdewhurst/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/revision-continuity/SKILL.md",
+      "computedHash": "871b8120d117bcd7cb7f9a8854ebf83b7e7d61e80b493c774e8704126f2bd324"
     },
     "robotics-design-patterns": {
       "source": "arpitg1304/robotics-agent-skills",
@@ -553,11 +709,41 @@
       "skillPath": ".claude/skills/slides/SKILL.md",
       "computedHash": "c72a8bcd2ee98a7caab8f00a816c7e7ccfa46bba6682539db2186e71220155f1"
     },
+    "sparring-partner": {
+      "source": "QinghongLin/data2story-skill",
+      "sourceType": "github",
+      "skillPath": "skills/sparring-partner/SKILL.md",
+      "computedHash": "79f63d266a521dcdc20550f9520da586202d64a74a87ada9da9351f8569df720"
+    },
     "stitch-design-taste": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
       "skillPath": "skills/stitch-skill/SKILL.md",
       "computedHash": "13322f38406cd3abf16ba45e35bdc9b18002d0153a79b4612b97aefc65d5a335"
+    },
+    "story-init": {
+      "source": "danjdewhurst/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/story-init/SKILL.md",
+      "computedHash": "77d0a75c0ccdd959218a75f02852cb6654aebf0e645e427dd8ef86514ffbd6a9"
+    },
+    "story-maintenance": {
+      "source": "danjdewhurst/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/story-maintenance/SKILL.md",
+      "computedHash": "0ffd75e586810e14d4210f72dcfc9d739aba7cf6e74acc8a67ee5848db913e35"
+    },
+    "storybrand-messaging": {
+      "source": "wondelai/skills",
+      "sourceType": "github",
+      "skillPath": "storybrand-messaging/SKILL.md",
+      "computedHash": "dda700bf07012a11f33ff8f225d7f39a0e283b71440d3f9e9eb5fb76da428a61"
+    },
+    "task-management": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/task-management/SKILL.md",
+      "computedHash": "fc1042d0ec96cf110922ee72e563a9c8232b0d62463dc5166eaed012ee62fcc8"
     },
     "tdd": {
       "source": "mattpocock/skills",
@@ -576,6 +762,12 @@
       "sourceType": "github",
       "skillPath": "skills/theme-factory/SKILL.md",
       "computedHash": "598ddfa9784ae2a8c55be5dbb047b98564d875dea6f4669168a87ae1ea1a4ed3"
+    },
+    "ticket-triage": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/ticket-triage/SKILL.md",
+      "computedHash": "595afe3a8f9e5e4cc181a9d941f3d96cc547bf9a8a6f2cdacb8368c94afb1496"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
@@ -619,6 +811,12 @@
       "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
       "computedHash": "523b8063c07eedd2b8a1ca94d7a0be9ad340026bd9f21a1eda0b6be2a855298f"
     },
+    "variance-analysis": {
+      "source": "sandbaseai/sandbase-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/variance-analysis/SKILL.md",
+      "computedHash": "37b7ae5e53f7f8011b284ccb8f8e731bc383528c753a6858d4a42b08ec1adb61"
+    },
     "vercel-cli-with-tokens": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
@@ -661,6 +859,12 @@
       "skillPath": "skills/vgpu/SKILL.md",
       "computedHash": "83381ee2659b8f3240ae395e9295873a1c864142d1200bd60df5e0c57d5099b8"
     },
+    "video-edit": {
+      "source": "genmedia-labs/skills",
+      "sourceType": "github",
+      "skillPath": "video-edit/SKILL.md",
+      "computedHash": "8db3460bb7f1d42e6f6e4ebf90054b9da161ce71de0a27c1020ba53c937c57cc"
+    },
     "wait-what": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -696,6 +900,12 @@
       "sourceType": "github",
       "skillPath": "skills/engineering/wizard/SKILL.md",
       "computedHash": "dee7f1a523994a1e063c69fe09c2f5b4da97a41ad68107722664e6e472cb2423"
+    },
+    "worldbuilding": {
+      "source": "danjdewhurst/story-skills",
+      "sourceType": "github",
+      "skillPath": "skills/worldbuilding/SKILL.md",
+      "computedHash": "434e8f9f37a54b4f15e4f1b6978862eaa40eb1ec37d02e778336bda485950678"
     },
     "writing-beats": {
       "source": "mattpocock/skills",
