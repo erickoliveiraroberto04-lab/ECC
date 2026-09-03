@@ -661,6 +661,12 @@
       "skillPath": "skills/vgpu/SKILL.md",
       "computedHash": "83381ee2659b8f3240ae395e9295873a1c864142d1200bd60df5e0c57d5099b8"
     },
+    "video-edit": {
+      "source": "genmedia-labs/skills",
+      "sourceType": "github",
+      "skillPath": "video-edit/SKILL.md",
+      "computedHash": "8db3460bb7f1d42e6f6e4ebf90054b9da161ce71de0a27c1020ba53c937c57cc"
+    },
     "wait-what": {
       "source": "mattpocock/skills",
       "sourceType": "github",
