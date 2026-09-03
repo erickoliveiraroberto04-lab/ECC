@@ -1,6 +1,228 @@
 {
   "version": 1,
   "skills": {
+    "AI & LLM Security": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/16-ai-llm-security/SKILL.md",
+      "computedHash": "46faf54dc7b6c625f310a4aa68100e0c65c489d69ff9177671e77728b5d3f9d6"
+    },
+    "Blue Team Defense & Hardening": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/15-blue-team-defense/SKILL.md",
+      "computedHash": "2a835b0e99250c1826d0f7ea35f89d154f75ddc15bdd67bed451a5989aed1762"
+    },
+    "CSOC Operations & Playbook Automation": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/11-csoc-automation/SKILL.md",
+      "computedHash": "22dbf8520a6b6c656e43780f9b72a9aac2593d78a9f88ed7ea737f648c7ea65b"
+    },
+    "Cloud Security & Container Hardening": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/10-cloud-security/SKILL.md",
+      "computedHash": "3a0b7d001fa39f20d00d16e914c2347ac6a1e5f61b5514720abf46fc327d1389"
+    },
+    "Cryptographic Analysis & Assessment": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/13-crypto-analysis/SKILL.md",
+      "computedHash": "dd7264a3e57118dd55c8a551bf80b3494b56dd6047a013786a9d17478eaa352c"
+    },
+    "Diagnose CrashLoopBackOff": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/kubernetes/diagnose-crashloop/SKILL.md",
+      "computedHash": "574a93f40aaf0de31abb3d75aae34e6216dbb3582bdea8232ed765ff8a85f16b"
+    },
+    "Diagnose ImagePullBackOff": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/kubernetes/diagnose-imagepullbackoff/SKILL.md",
+      "computedHash": "083ffbecbcfc8960e87f7445f4a1f5822807565775f2b9f8e0a446ed13ffc2d1"
+    },
+    "Example Skill Name": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/_template/SKILL.md",
+      "computedHash": "3b2e91a5369e06b3f65a17c9d4391af843117d20de491480ecaeec86a105d85b"
+    },
+    "Exploit Development & Payload Engineering": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/03-exploit-development/SKILL.md",
+      "computedHash": "41abc9922dfdbfbe82fbafca5978bd5924646e1396b23fd0a8b7b40dbd8ea80f"
+    },
+    "GRC & Compliance": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/19-grc-compliance/SKILL.md",
+      "computedHash": "7af574cd7cdaf734144905a369063104b2cea7f9ca289af427a6b818cb73646b"
+    },
+    "Incident Response & Digital Forensics": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/07-incident-response/SKILL.md",
+      "computedHash": "f5d79fc243c49fadf7456e27f7e43980d653fddba3b564819ceccf5fc123e011"
+    },
+    "Investigate Terraform Drift": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/terraform/investigate-drift/SKILL.md",
+      "computedHash": "f3a2e2d7c7f61856d20834760145c30679421cc98f8181031c5b2075744b1039"
+    },
+    "Log Analysis & SIEM Integration": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/12-log-analysis/SKILL.md",
+      "computedHash": "104bca6238e34574b4323b5f2162bb43a067ee4958bd8efb8076ef6d4a88fb95"
+    },
+    "Malware Analysis & Sandboxing": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/05-malware-analysis/SKILL.md",
+      "computedHash": "34a3b53c1f29e67d311bd89380bfb68f8586c8f64e3885fdc213ec320cf115a7"
+    },
+    "Mobile Application Security": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/17-mobile-security/SKILL.md",
+      "computedHash": "0a5968895d39f1d4775146895c541c12e0018f77f2b089c6a7dfc5a69537ac50"
+    },
+    "Network Security & Traffic Analysis": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/08-network-security/SKILL.md",
+      "computedHash": "e73b9cbfc3039a5af9ad3229ba8371201fa6329a9198f6d41bc62a4d773b3dec"
+    },
+    "OT / ICS / SCADA Security": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/18-ot-ics-security/SKILL.md",
+      "computedHash": "8a1822ad3f8ebf1fe88f4dbd86f93399e874690d0c0aa35ed362d19b4b7703c4"
+    },
+    "Reconnaissance & OSINT Automation": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/01-recon-osint/SKILL.md",
+      "computedHash": "41269f91054ee609e6c68c325167e02c7c4b7f000752c95651ef56f03e5db780"
+    },
+    "Recover Terraform State Lock": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/terraform/recover-state-lock/SKILL.md",
+      "computedHash": "52640dd305d5439821fecbfa31721aca502e56874267e674d99f7a3f18b1ebd3"
+    },
+    "Red Team Operations & Engagement Planning": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/14-red-team-ops/SKILL.md",
+      "computedHash": "f95f12341fbcd4bd63a54e0a9dfddd0c72168ff91f299c572f16c2b35ec76457"
+    },
+    "Reverse Engineering & Binary Analysis": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/04-reverse-engineering/SKILL.md",
+      "computedHash": "37fcf85fd681ae2089e3e0d204eab60864408084b4974efa5b5f5a68018a9b20"
+    },
+    "Sev1 First 15 Minutes": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/incident/sev1-first-15-minutes/SKILL.md",
+      "computedHash": "e07d9c7953339827310d2f6aa223a83349c1e58a8dbdd5e20aecf8c7c72e97bf"
+    },
+    "Supply Chain Security": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/20-supply-chain-security/SKILL.md",
+      "computedHash": "a0e8ebca4037f70446c89e24ab63d0d017d6e9f1e223db2be4b56dfc69729198"
+    },
+    "Threat Hunting & IOC Analysis": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/06-threat-hunting/SKILL.md",
+      "computedHash": "295e0bdabf8b9413fe70d90089ec029c68e156adc34c897f7e1f93c4870c574b"
+    },
+    "Triage AWS AccessDenied": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/aws/triage-access-denied/SKILL.md",
+      "computedHash": "6aebf790a47b56cb015e43e88f05f7752c54f9cd2609d355cc501241f22200da"
+    },
+    "Triage Argo CD App OutOfSync": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/argocd/triage-app-outofsync/SKILL.md",
+      "computedHash": "573984acea9b1bbcaba5a16dbed0530857e704afdfeb686ef94b84fc6c80fd07"
+    },
+    "Triage Cloud Cost Spike": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cost/triage-cost-spike/SKILL.md",
+      "computedHash": "315d1373f40743257d4c0657b0fe3d335309c63ec43ed956e4d46691c6962d7d"
+    },
+    "Triage EKS Node NotReady": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/aws/triage-eks-node-notready/SKILL.md",
+      "computedHash": "58fd456f923e1bf2b8e1e5b4c80feaf6f06dd117166cda57753b18af24533509"
+    },
+    "Triage Error Budget Burn": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/observability/triage-error-budget-burn/SKILL.md",
+      "computedHash": "30a89d2972c8d5a23b09499c88af0c174fec5d14e60f23c772f5d8adcbda978d"
+    },
+    "Triage GCP Quota Exceeded": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/gcp/triage-quota-exceeded/SKILL.md",
+      "computedHash": "e39d47a980d7dedfa2d18ba49c369a797d5d96e47449a3cd0d45431aac5995dc"
+    },
+    "Triage Kubernetes Node Pressure": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/kubernetes/triage-node-pressure/SKILL.md",
+      "computedHash": "0acc7c3327f5f621c7715b7da04935fff7463ff60a8476f5518998cc4fce2e52"
+    },
+    "Triage Kubernetes Service DNS": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/kubernetes/triage-service-dns/SKILL.md",
+      "computedHash": "e01690b67f9024ef850288c8650cede293c40d35ee1bf599648fadd012e660cc"
+    },
+    "Triage Latency Regression": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/observability/triage-latency-regression/SKILL.md",
+      "computedHash": "639a4740ffbde2ce5dd810967b588f6597a84ecf060c3d34c139995be0ce294b"
+    },
+    "Triage Pending Pods": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/kubernetes/triage-pending-pods/SKILL.md",
+      "computedHash": "f5b8f81c2ca69226b30eff619c4d9aed308a78a4f4cc2cbfc31eeda68cabd482"
+    },
+    "Triage Suspected Secret Exposure": {
+      "source": "bregman-arie/devops-sre-skills",
+      "sourceType": "github",
+      "skillPath": "skills/security/triage-suspected-secret-exposure/SKILL.md",
+      "computedHash": "b6e5b9cb7417b05fda07fa040c2d4e0891ce312f2cfa6dcb50796b11e0c9d7e7"
+    },
+    "Vulnerability Scanning & Assessment": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/02-vulnerability-scanner/SKILL.md",
+      "computedHash": "7e80988ba8b56bf17544007a65103efe7cfc72b819cc73e8f5d421e57073fbea"
+    },
+    "Web Application Security Testing": {
+      "source": "Masriyan/Claude-Code-CyberSecurity-Skill",
+      "sourceType": "github",
+      "skillPath": "skills/09-web-security/SKILL.md",
+      "computedHash": "fac6be7148d352b345da1b4f512789c1e1c81dbd861fd2b9f72b17f4d4838110"
+    },
     "academic-research": {
       "source": "sandbaseai/sandbase-skills",
       "sourceType": "github",
@@ -42,6 +264,60 @@
       "sourceType": "github",
       "skillPath": "skills/algorithmic-art/SKILL.md",
       "computedHash": "b2ca295de7f9c86c444f1fa21239e22e0eb7013ced1c652169b9402cc96ff744"
+    },
+    "android-accessibility": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/ui/android-accessibility/SKILL.md",
+      "computedHash": "d8d9d563f8930625eaf20ea4fdd2827b2020700f3205e9f6c15f97d38c391e25"
+    },
+    "android-architecture": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/architecture/android-architecture/SKILL.md",
+      "computedHash": "3bf982219357fc33d70ce9f598f358d06f9b0135c3cd40e3a036496841504367"
+    },
+    "android-coroutines": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/concurrency_and_networking/android-coroutines/SKILL.md",
+      "computedHash": "ce2b8c0608e4a9bcbb47dcc0edab77111f3f5896b6fe4ef04882138cf0aa9f91"
+    },
+    "android-data-layer": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/architecture/android-data-layer/SKILL.md",
+      "computedHash": "fd7efba5e76d983f7d28b959530c47ea5914d92881c73c69bbe787de040328c3"
+    },
+    "android-emulator-skill": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/testing_and_automation/android-emulator-skill/SKILL.md",
+      "computedHash": "b553aee78c03df76cc50af99775a4c9981dbafe2bf52a4c3b7b5f9169e4185a9"
+    },
+    "android-gradle-logic": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/build_and_tooling/android-gradle-logic/SKILL.md",
+      "computedHash": "d761417a93265336db08be791bf7f4c63b1b8b78db46cbb0111c2224c2034b1e"
+    },
+    "android-retrofit": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/concurrency_and_networking/android-retrofit/SKILL.md",
+      "computedHash": "e3f4fb18f9a62b88db0e85cbbec10cf1c6c03e712a1049fdc7fd9971c27ad64e"
+    },
+    "android-testing": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/testing_and_automation/android-testing/SKILL.md",
+      "computedHash": "744cd26fe4f2b741f86a93d20e72b27399edd8aef8345e908aceae9df37c278c"
+    },
+    "android-viewmodel": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/architecture/android-viewmodel/SKILL.md",
+      "computedHash": "f2c9446a132774438af51f3656cccf4a390033c65377b02fc83d2dea7ed01b7e"
     },
     "api-testing": {
       "source": "naodeng/awesome-qa-skills",
@@ -144,6 +420,24 @@
       "sourceType": "github",
       "skillPath": "skills/engineering/codebase-design/SKILL.md",
       "computedHash": "5a17552cc1482f1a40124bf4e6c9dbd90ac0dbb47e71c07d47369f9e5f2ae3b5"
+    },
+    "coil-compose": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/ui/coil-compose/SKILL.md",
+      "computedHash": "cc0cc953930d58576551ce6caf32856ab93786668ae82b87356a8c47fcb75854"
+    },
+    "compose-performance-audit": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/performance/compose-performance-audit/SKILL.md",
+      "computedHash": "b919f972ad2d33190f8de66d037fbd7ff1711e59b7e3d14e17635d75e5bc0d71"
+    },
+    "compose-ui": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/ui/compose-ui/SKILL.md",
+      "computedHash": "031fe59cb3c8566b5080d5cd36612092f66fd735a29ce0ecd1717502140503a2"
     },
     "continuous-discovery": {
       "source": "wondelai/skills",
@@ -379,6 +673,12 @@
       "skillPath": "skills/gpt-tasteskill/SKILL.md",
       "computedHash": "cc8f0c601d8240a124e1d11634351a2be7b8a72fd807c75e5b6bf7afcd5ddee0"
     },
+    "gradle-build-performance": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/performance/gradle-build-performance/SKILL.md",
+      "computedHash": "4d9868684c2a41e519604e797df4cd8c6b32aa604dcb0d6b63174ea316a7f19f"
+    },
     "grill-me": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -481,6 +781,12 @@
       "skillPath": "jobs-to-be-done/SKILL.md",
       "computedHash": "d4ec70d690ae20b80664066a55964a9834e4d8134f5812ba6b7fb9104ea7c3b7"
     },
+    "kotlin-concurrency-expert": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/concurrency_and_networking/kotlin-concurrency-expert/SKILL.md",
+      "computedHash": "9b85fad8c81892908c8a4a7d0895c8f8b9647669640a22caa17f33c4553e3b49"
+    },
     "layout-paradigms-and-consistency": {
       "source": "dembrandt/dembrandt-skills",
       "sourceType": "github",
@@ -552,6 +858,12 @@
       "sourceType": "github",
       "skillPath": "skills/multi-step-form-design/SKILL.md",
       "computedHash": "48367e165f05193e63455094ac6997af1f88d757b4c6bdcd50d20d69fd300454"
+    },
+    "navigation3": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/ui/compose-navigation/SKILL.md",
+      "computedHash": "7cf8e55918bd4191d29255540a0d223feda4f8bfea7f2d653c2e15ace4bb3d2d"
     },
     "onboarding-wizard-design": {
       "source": "rampstackco/claude-skills",
@@ -636,6 +948,12 @@
       "sourceType": "github",
       "skillPath": "skills/robotics-design-patterns/SKILL.md",
       "computedHash": "45a96f3dbdc2ce75a71216a478449ff5f451e253088e26575c0106340a227269"
+    },
+    "rxjava-to-coroutines-migration": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/migration/rxjava-to-coroutines-migration/SKILL.md",
+      "computedHash": "1f6f3f71731f6eb4a27bb9d3df928296bfe70de18e8ac64a53b37957359e8acd"
     },
     "scaffold-exercises": {
       "source": "mattpocock/skills",
@@ -936,6 +1254,12 @@
       "sourceType": "github",
       "skillPath": "skills/in-progress/writing-shape/SKILL.md",
       "computedHash": "0d0ac1150c4d65f8370ad194fc097ee17855247f6e5943d05f075806980e7401"
+    },
+    "xml-to-compose-migration": {
+      "source": "new-silvermoon/awesome-android-agent-skills",
+      "sourceType": "github",
+      "skillPath": ".github/skills/migration/xml-to-compose-migration/SKILL.md",
+      "computedHash": "50cff8ebe440fe2b13bd1f7c06f1d30f1dffc9597aaa16fc215de9a20b5952eb"
     }
   }
 }
