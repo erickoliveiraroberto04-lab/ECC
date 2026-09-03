@@ -433,6 +433,12 @@
       "skillPath": ".github/skills/ui/coil-compose/SKILL.md",
       "computedHash": "cc0cc953930d58576551ce6caf32856ab93786668ae82b87356a8c47fcb75854"
     },
+    "color-expert": {
+      "source": "meodai/skill.color-expert",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "c7d1ebb2f0a1b565e3ec5e4f2193cff66c315a4e98d3801bc958bf1700ea4326"
+    },
     "compose-performance-audit": {
       "source": "new-silvermoon/awesome-android-agent-skills",
       "sourceType": "github",
@@ -1212,6 +1218,12 @@
       "sourceType": "github",
       "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
       "computedHash": "523b8063c07eedd2b8a1ca94d7a0be9ad340026bd9f21a1eda0b6be2a855298f"
+    },
+    "ux-writing": {
+      "source": "content-designer/ux-writing-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "7a9be24c109c69070451aaa30f75417825cb6b85435c775ad58185c52449cbfc"
     },
     "variance-analysis": {
       "source": "sandbaseai/sandbase-skills",
