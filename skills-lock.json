@@ -1573,6 +1573,120 @@
       "skillPath": "06-legal-compliance/legal-risk-assessment/SKILL.md",
       "computedHash": "fbc4dffe38a8b8d59ccee1d016654497dc1d9f2f4ceb5ca632dcb4715d22c07f"
     },
+    "lgpd-anonymization": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-anonymization/SKILL.md",
+      "computedHash": "a3a6150ac0fad95ff5b9a4694b4d1bf89055016df3888bcdae68963455a3bbf5"
+    },
+    "lgpd-audit": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-audit/SKILL.md",
+      "computedHash": "fdcb93cd048f5c73d2a693b451e38cebd919f0c36706a55d1bf727d6b33ae950"
+    },
+    "lgpd-audit-logging": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-audit-logging/SKILL.md",
+      "computedHash": "255b10515e037be8dc66b297df09855fa43712f21c480590af758a70b5952db5"
+    },
+    "lgpd-consent-schema": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-consent-schema/SKILL.md",
+      "computedHash": "292584a8a96947f518d81c7ba5dbed72d9df023b94a85225bfdafd6feb682155"
+    },
+    "lgpd-data-mapping": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-data-mapping/SKILL.md",
+      "computedHash": "b95c2eb18fb6f8f14a691fe4752b43550281ab3395be73478bada9d72a696c33"
+    },
+    "lgpd-dpa": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-dpa/SKILL.md",
+      "computedHash": "aa830e7618aa97bdb3b8a36133dcaea4e9531f38386db4d2d599ed17b1cbc85c"
+    },
+    "lgpd-dpo-encarregado": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-dpo-encarregado/SKILL.md",
+      "computedHash": "7d24348bbae4a9249dc9875b58b43586d7101e9b75e15bbc32ecd9c17230bb16"
+    },
+    "lgpd-dsar": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-dsar/SKILL.md",
+      "computedHash": "b49777a218dde04c6ac2ee7400a960a7a615a58355f2bbd837fe2b313301856f"
+    },
+    "lgpd-eca-digital-minors": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-eca-digital-minors/SKILL.md",
+      "computedHash": "dc8087153b0c88bbd467dacd5eda9e7e7b4666473150318d0e1d04a9ec743cdf"
+    },
+    "lgpd-encryption-keys": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-encryption-keys/SKILL.md",
+      "computedHash": "ea27f9846b604169cc8118297aa8743e97ae3499fcc6875252792c15ba13269d"
+    },
+    "lgpd-incident-response": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-incident-response/SKILL.md",
+      "computedHash": "af9c4f25e54bd66531eb1afba11f3cec8f70b42f9cb4b3513c05cd5b982da470"
+    },
+    "lgpd-international-transfer": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-international-transfer/SKILL.md",
+      "computedHash": "7f32562e8f3d006a323a9217b5bc80008234ec1f11520032376fe72adf4d7519"
+    },
+    "lgpd-legacy-retrofit": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-legacy-retrofit/SKILL.md",
+      "computedHash": "0a9392fabe4873dedd0b59e93a578711cefab9a9f9802722fdf2317636f65198"
+    },
+    "lgpd-legal-basis": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-legal-basis/SKILL.md",
+      "computedHash": "4a8783dbfdefa52982a5576bd799042b6bd874f006b208718085623b02f35c66"
+    },
+    "lgpd-privacy-policy": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-privacy-policy/SKILL.md",
+      "computedHash": "7b8ada9f835870bf8cac10a50f44ca3817d7f5d355fc54476459322e28b4eb32"
+    },
+    "lgpd-retention-erasure": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-retention-erasure/SKILL.md",
+      "computedHash": "eea41dec90960a6e7b0f728ab22098e6f92ecaeded5a422f148f2cee306c27f9"
+    },
+    "lgpd-ripd": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-ripd/SKILL.md",
+      "computedHash": "9a8eaf2708379f9fcbbdc1d6505f7d79995cc41120fc40ba2e845e701b9bb569"
+    },
+    "lgpd-ropa": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-ropa/SKILL.md",
+      "computedHash": "aefaef331a8a6b2574cbd432472c5cc6e57d23e747d094105dfe185a9e49c800"
+    },
+    "lgpd-vendor-audit": {
+      "source": "goul4rt/lgpd-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lgpd-vendor-audit/SKILL.md",
+      "computedHash": "84dd4fe7366588ba04395afe826ba1a1cd33c0603834dc1c661797e8fc6c35a3"
+    },
     "lifestyle-creep": {
       "source": "openaccountant/skills",
       "sourceType": "github",
