@@ -2461,6 +2461,12 @@
       "skillPath": "plugins/terraform/skills/new-terraform-provider/SKILL.md",
       "computedHash": "9fe1b7b4b0f5de81ac8b8017c9cd8d8bc5104b55f5b15dfd5e3da3bd0cb5c03c"
     },
+    "notebooklm-research": {
+      "source": "claude-world/notebooklm-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "c0d09c50ada892b10ffe9a726e6d12f09ac7c99d9621d5c31cec954ea27154d4"
+    },
     "onboarding-planner": {
       "source": "w95/awesome-claude-corporate-skills",
       "sourceType": "github",
