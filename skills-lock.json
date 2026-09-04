@@ -253,6 +253,12 @@
       "skillPath": "skills/accessorysetupkit/SKILL.md",
       "computedHash": "90911416c4367bb74c58a9852b3e5efabd6b953a8efa020022e6151cd7c37739"
     },
+    "account-research": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/account-research/SKILL.md",
+      "computedHash": "8e17bf0b44d475bc43142fd4aa6d74fddb8f15b7c8b910066f3b3528a9c81521"
+    },
     "activitykit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
@@ -433,6 +439,12 @@
       "skillPath": "skills/backup-and-disaster-recovery/SKILL.md",
       "computedHash": "2b92556780438ec0d25a463282b71b2fb50d0e68067777a12bd166fba2c690cb"
     },
+    "bank-sync": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/bank-sync/SKILL.md",
+      "computedHash": "50544095c59ea18f7efd155fdb65d1b9b1ab350d6ce7e1709986a02f54206f4e"
+    },
     "banner-design": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
@@ -451,11 +463,29 @@
       "skillPath": "better-icons/SKILL.md",
       "computedHash": "656a618d6d5d5e9c567253eff57a06bee3be5d4fb983bdc401a46a209c5b76de"
     },
+    "board-meeting-prep": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/board-meeting-prep/SKILL.md",
+      "computedHash": "9e7f913edd211e95a45b93519accaa980a04bd60bedc7577cd049614996f301e"
+    },
+    "brainstorming": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/brainstorming/SKILL.md",
+      "computedHash": "5cafa1558b0b6bd4d4c71f23d5567b7fcbbcdb4b0a50b0c5f69a80a3cebaf9b8"
+    },
     "brand": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
       "skillPath": ".claude/skills/brand/SKILL.md",
       "computedHash": "2077eb4768370a23aee9696cbb5995a41df7b5415a31f7756e9ef60e39b3523f"
+    },
+    "brand-voice-enforcement": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/brand-voice-enforcement/SKILL.md",
+      "computedHash": "8269b6edf6ff2fd889707fc017b4f552d5bb39c2a5b6a0a17dc68e28577832ac"
     },
     "brandkit": {
       "source": "Leonxlnx/taste-skill",
@@ -463,11 +493,23 @@
       "skillPath": "skills/brandkit/SKILL.md",
       "computedHash": "b63012f3c3d21197e0185d3e9cc7ec40c589fb10e0b5a32a561739de31aa3f20"
     },
+    "break-even-calc": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/break-even-calc/SKILL.md",
+      "computedHash": "b8f0db4eed25c3e7fdde42ce58e25fc6dedd1251d98bcf3e025b0e4ffb37230e"
+    },
     "browserenginekit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/browserenginekit/SKILL.md",
       "computedHash": "fc090fb3698192639b58fbeb33113f537c8dc7aa64105716df38763ba29b39da"
+    },
+    "business-case-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/business-case-builder/SKILL.md",
+      "computedHash": "ef4a5e03d2b125431c6aa1768878907aad6c9e0d4a674f0f5f4f67e2d1e23583"
     },
     "calculator-design": {
       "source": "rampstackco/claude-skills",
@@ -475,11 +517,29 @@
       "skillPath": "skills/calculator-design/SKILL.md",
       "computedHash": "f1596565dd9f152b0b1bfcf5be26414101aa11488aa307cd7010eae4767bbd0b"
     },
+    "call-prep": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/call-prep/SKILL.md",
+      "computedHash": "e036580ab481e0ee99ac2df7e6c47be1f44c27782d5f0dbb904e536e7ddcb0b1"
+    },
     "callkit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/callkit/SKILL.md",
       "computedHash": "024291a148ac9a8144c57bf352b81e8c227d70efe0ebb8ad858dda24e088bf06"
+    },
+    "campaign-planner": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/campaign-planner/SKILL.md",
+      "computedHash": "fa1ecd70a3f9688a0ce4dca61be57953b823dbb2cffb30bdd37097608fe48fa2"
+    },
+    "canned-responses": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "06-legal-compliance/canned-responses/SKILL.md",
+      "computedHash": "2ecae5a74469e5b1e0b736b3e52a57e3aa4cd9704b82171b477e025fa46b261c"
     },
     "carplay": {
       "source": "dpearson2699/swift-ios-skills",
@@ -487,11 +547,29 @@
       "skillPath": "skills/carplay/SKILL.md",
       "computedHash": "8e5bf0c777e276322b8b3d7c2540f44f51f6b34a2f650689fa37ad4d51c23040"
     },
+    "cash-flow-forecast": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/cash-flow-forecast/SKILL.md",
+      "computedHash": "39afefcf5cd0b8f0b838159870857156a2497538efa4af2fe3f3036d187fa97c"
+    },
     "cash-flow-snapshot": {
       "source": "sandbaseai/sandbase-skills",
       "sourceType": "github",
       "skillPath": "marketing/cash-flow-snapshot/SKILL.md",
       "computedHash": "ea96f62992e7f7144be85c52877471d7409308e122f4469bfd9788c845f2e7f5"
+    },
+    "change-management": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/change-management/SKILL.md",
+      "computedHash": "ddefdc9c683186ae0d063548f6e37551f9b56b4d142d7adf4cc65dac29a224ef"
+    },
+    "changelog-generator": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/changelog-generator/SKILL.md",
+      "computedHash": "0facdb5c491a654e3b0f6d300fb8fa14472d811cb715c632dc2862919b277dae"
     },
     "chapter-writing": {
       "source": "danjdewhurst/story-skills",
@@ -505,6 +583,18 @@
       "skillPath": "skills/character-management/SKILL.md",
       "computedHash": "3debd36a3da4a430f4f71292280d4824bfab0436234a2ace68be939773062be5"
     },
+    "charitable-giving": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/charitable-giving/SKILL.md",
+      "computedHash": "361e641c70be1c60b089a0550ba7a1c84fc4519fa05416fa3c1ef4f174b55043"
+    },
+    "churn-analysis": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/churn-analysis/SKILL.md",
+      "computedHash": "72898aa0d3b22f9f0ce4a8095478090252f9825249c1045cd08d5d4a0cd02e8a"
+    },
     "claude-handoff": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -516,6 +606,12 @@
       "sourceType": "github",
       "skillPath": "clean-code/SKILL.md",
       "computedHash": "917f01d5f5800f1f575c6701a4a34939647e74c423bd3108e894191abb0593f6"
+    },
+    "client-profitability": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/client-profitability/SKILL.md",
+      "computedHash": "c179cc7e6e19fcf8255f190989a8906325e48df674edeb9739965fad3052b41b"
     },
     "cloudkit": {
       "source": "dpearson2699/swift-ios-skills",
@@ -547,6 +643,48 @@
       "skillPath": "SKILL.md",
       "computedHash": "c7d1ebb2f0a1b565e3ec5e4f2193cff66c315a4e98d3801bc958bf1700ea4326"
     },
+    "compensation-benchmarking": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/compensation-benchmarking/SKILL.md",
+      "computedHash": "696e035f7af1edf0945ebfdcb8bc4d64ab31f56c275e8fb31cb3e31b15f52ce0"
+    },
+    "competitive-ads-extractor": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/competitive-ads-extractor/SKILL.md",
+      "computedHash": "8367364ae0aefcf0554468308066e39dc81aeaccfcf9922f85de1b7f56ad61a8"
+    },
+    "competitive-analysis": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/competitive-analysis/SKILL.md",
+      "computedHash": "50375b23cece3effaddde42baf0749aab2dfcb0c15249ba6cba1fbb785892527"
+    },
+    "competitive-intelligence": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/competitive-intelligence/SKILL.md",
+      "computedHash": "ab05e382d9c42e8ea630aa64b2f479cbc04887ed0707a4eec3f7b40a853f50a2"
+    },
+    "compliance": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "06-legal-compliance/compliance/SKILL.md",
+      "computedHash": "8b339009eb52585a52e83817952190447a0473da665a6699c8237d7e44e702b6"
+    },
+    "compliance-tracking": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "06-legal-compliance/compliance-tracking/SKILL.md",
+      "computedHash": "a9a82d24c26a0896ad00915ead908045156713256f4cc2796207078df22256c3"
+    },
+    "compose-outreach": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/compose-outreach/SKILL.md",
+      "computedHash": "7c1a4a1e24947e02261dc44b775d2b1582aecc506b1c4dea4d83778e3e98f502"
+    },
     "compose-performance-audit": {
       "source": "new-silvermoon/awesome-android-agent-skills",
       "sourceType": "github",
@@ -559,17 +697,47 @@
       "skillPath": ".github/skills/ui/compose-ui/SKILL.md",
       "computedHash": "031fe59cb3c8566b5080d5cd36612092f66fd735a29ce0ecd1717502140503a2"
     },
+    "contact-research": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/contact-research/SKILL.md",
+      "computedHash": "5d796e84502e9efe52c6763e7e9d5baeb93866169aa03b77106f82d52c17b5be"
+    },
     "contacts-framework": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/contacts-framework/SKILL.md",
       "computedHash": "4bdc5775a4f982e335e10d8c68f02b706fad9296a71fc0ce8343a7cbfe113347"
     },
+    "content-research-writer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/content-research-writer/SKILL.md",
+      "computedHash": "de7e9085e875a651f209c826d1a5e7dd5f2436fb38fe565ef76b54492c1a0c22"
+    },
     "continuous-discovery": {
       "source": "wondelai/skills",
       "sourceType": "github",
       "skillPath": "continuous-discovery/SKILL.md",
       "computedHash": "a3142ce0cfd6bb095fb351de65c984e82fd0d61217b31c0e10f7f432b3452bd0"
+    },
+    "contract-negotiation": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "12-procurement-supply-chain/contract-negotiation/SKILL.md",
+      "computedHash": "4f76bf24d7d64a55c9b69eb461090afc1e7b864cebbe1f7fad8958d46c2fd1bd"
+    },
+    "contract-review": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "06-legal-compliance/contract-review/SKILL.md",
+      "computedHash": "d8f3fa7dafba5756fe830ab7f20a82cc9c13ca21fd9f05a2483745c60c2f616a"
+    },
+    "contractor-tracking": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/contractor-tracking/SKILL.md",
+      "computedHash": "6b99d74a5c00eb93885d1e15bf0aab4a4323d94eb5b204a1c55695ff964f788f"
     },
     "core-bluetooth": {
       "source": "dpearson2699/swift-ios-skills",
@@ -613,6 +781,12 @@
       "skillPath": "skills/cost-optimization/SKILL.md",
       "computedHash": "c03079acb2c14ab621b743189a5aa8a4e58e4c9fc8ea0913490975c126a5a513"
     },
+    "create-an-asset": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/create-an-asset/SKILL.md",
+      "computedHash": "24007eb75210c0e20add8f61db29713f71eee14f7edf9334e41359b58533a373"
+    },
     "cro-methodology": {
       "source": "wondelai/skills",
       "sourceType": "github",
@@ -631,11 +805,47 @@
       "skillPath": "skills/cryptotokenkit/SKILL.md",
       "computedHash": "48cd4f38218b8de5f9a94273139f693822dac5a559f0d079f6e57a5556ab79e4"
     },
+    "csv-data-summarizer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/csv-data-summarizer/SKILL.md",
+      "computedHash": "c0382d3e8b800286917da34789938abeea55d1835b674bc9e32df885084f6779"
+    },
     "currency-converter": {
       "source": "sandbaseai/sandbase-skills",
       "sourceType": "github",
       "skillPath": "research/currency-converter/SKILL.md",
       "computedHash": "2e357e8946dff56fdcd572f691f5e3a87e8d93477c00e29aa94861051efefce2"
+    },
+    "custom-report": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/custom-report/SKILL.md",
+      "computedHash": "4e09c9d16d7e0ee2b7d3d9d79c1ad1fadebdd5cec7c4d8832e6706652ed5652a"
+    },
+    "customer-research": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/customer-research/SKILL.md",
+      "computedHash": "417ee1ff11c5e76d76bc3090be1abaec269577fb95424d577cdab82b27765147"
+    },
+    "daily-briefing": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/daily-briefing/SKILL.md",
+      "computedHash": "3f86afd9b78499d21b59efecad2e8c04a47b4b0fff1280acaf33a0f9b6e44f9a"
+    },
+    "data-context-extractor": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/data-context-extractor/SKILL.md",
+      "computedHash": "63976ecbf43333889258d3cb1395c7ba3eb5a9f27b3f28459e5c0d79a2bbfed6"
+    },
+    "data-exploration": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/data-exploration/SKILL.md",
+      "computedHash": "0bf290c8fbdf9b799931f35cf0a21d8ca1a572edefc28c5c33765d500f8b72b0"
     },
     "data-quality-auditor": {
       "source": "WilliamWJHuang/ab-test-causal-inference-skills",
@@ -643,11 +853,29 @@
       "skillPath": "skills/data-quality-auditor/SKILL.md",
       "computedHash": "4e324e12cbb2212881622771b8d85d746d2051e792b656efa30b4dc4592fd074"
     },
+    "data-validation": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/data-validation/SKILL.md",
+      "computedHash": "211730ea4662e31121453ed9a1e010dc9cfdf6fb698db78b9a69db9d8b5faf8c"
+    },
+    "data-visualization": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/data-visualization/SKILL.md",
+      "computedHash": "c6c80a66a59535ee532efa34734b15fb9acdcca8f7e065aa830e650d01aa4920"
+    },
     "data2story": {
       "source": "QinghongLin/data2story-skill",
       "sourceType": "github",
       "skillPath": "skills/data2story/SKILL.md",
       "computedHash": "c1e97bc19e27493ee6b80f63ae5c4267917773abc05182ce5e5cf573d4bce51d"
+    },
+    "datapack-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/datapack-builder/SKILL.md",
+      "computedHash": "cce2626741bf1a34e300afedd538bcbcdc3e8ba2f9b3df333a62ef91538ad6db"
     },
     "dataviz-craft": {
       "source": "QinghongLin/data2story-skill",
@@ -655,11 +883,35 @@
       "skillPath": "skills/dataviz-craft/SKILL.md",
       "computedHash": "fc68228298d7d1592857f6ed71bc176d5bd5630881ce2359188083ff2c32932a"
     },
+    "dcf-model": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/dcf-model/SKILL.md",
+      "computedHash": "5df85eb1b3a6dcb8772a473756aecb4b0fbcc53d4c114a3b49601aa2570370da"
+    },
+    "ddd:software-architecture": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/software-architecture/SKILL.md",
+      "computedHash": "4c66f05d2a0fd2e3be319f63c3def9744450cad46e833d2ceda9fb30c55a562e"
+    },
+    "debt-payoff": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/debt-payoff/SKILL.md",
+      "computedHash": "ef133825a673c14352cdcba08e413c4993fe02c09437ef7dd25a77b47af97552"
+    },
     "debugging-instruments": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/debugging-instruments/SKILL.md",
       "computedHash": "ccaa83079af0dd3be7e2a80503f8b419de470a0c5497b6e6053a6a6eb2fa35b7"
+    },
+    "dei-strategy": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/dei-strategy/SKILL.md",
+      "computedHash": "db8321242a6844df82a203fd6ca05b0764ac3e112561a152d6ab02d241fa9ff0"
     },
     "dependency-management": {
       "source": "rampstackco/claude-skills",
@@ -672,6 +924,12 @@
       "sourceType": "github",
       "skillPath": "skills/deploy-to-vercel/SKILL.md",
       "computedHash": "d2b5bcc7c09fdb649129ffc7dd7b647ec1b155736974b974292675afd588cb39"
+    },
+    "depreciation-schedule": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/depreciation-schedule/SKILL.md",
+      "computedHash": "98226c8225ad6ca577c47f23a02002a8ed80bc3c960caaadbc6253f7d796d64b"
     },
     "design-harness": {
       "source": "tigerless-labs/design-harness",
@@ -709,6 +967,12 @@
       "skillPath": "skills/taste-skill-v1/SKILL.md",
       "computedHash": "d704ab912c4d0ca954ffa858983da755ae4cd5cad9ba22554db5557382f5bd34"
     },
+    "developer-growth-analysis": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/developer-growth-analysis/SKILL.md",
+      "computedHash": "e3dcbe091bacd9f1afdac53319dea01aace1e50a9d8e64c21c859ab0a89765f5"
+    },
     "device-integrity": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
@@ -727,6 +991,12 @@
       "skillPath": "skills/discernment-nudge/SKILL.md",
       "computedHash": "fbe8fab770e8e106623525caa342bd2a4c84992cb840377cb57d4365be599be8"
     },
+    "discover-brand": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/discover-brand/SKILL.md",
+      "computedHash": "76ef6eb240ee986fa3909f6c8e26516d1b2f7ea9004cfaa7978374ebc586124b"
+    },
     "doc-coauthoring": {
       "source": "anthropics/skills",
       "sourceType": "github",
@@ -738,6 +1008,12 @@
       "sourceType": "github",
       "skillPath": "skills/dockkit/SKILL.md",
       "computedHash": "cd6854a9eaad69c9ea01f487b3a9d5c68351337f74b07201071821d155d94201"
+    },
+    "documentation": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/documentation/SKILL.md",
+      "computedHash": "c24a1672a7edad51225859d6549d9a61892f704a4527a65ce3cddd913ca04550"
     },
     "documentation-strategy": {
       "source": "rampstackco/claude-skills",
@@ -757,6 +1033,30 @@
       "skillPath": "skills/engineering/domain-modeling/SKILL.md",
       "computedHash": "a11713c0ff7870efa3c331b2e273f09116158485246edc89ae5088eefd1b0b48"
     },
+    "domain-name-brainstormer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/domain-name-brainstormer/SKILL.md",
+      "computedHash": "911dba9c4e55a47bebbf3d44482579518797a94d5bfc02088a9ed85360df6d2b"
+    },
+    "draft-outreach": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/draft-outreach/SKILL.md",
+      "computedHash": "467cadcfce18bf640ba519a3bd21d1a0caf69ef944dae4e0b425006122475436"
+    },
+    "earnings-analysis": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/earnings-analysis/SKILL.md",
+      "computedHash": "57da904968b9c28d0538f0876078601e662aa12932aeffda45391cd832eb5dcd"
+    },
+    "earnings-preview-single": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/spglobal-earnings-preview/SKILL.md",
+      "computedHash": "4d4c690bfbd1916baf8e50efe56ac9606d905ed73003430f8244b77ea1b9938f"
+    },
     "ecommerce-visual-copywriting": {
       "source": "feichanggege/ecommerce-visual-copywriting-skill",
       "sourceType": "github",
@@ -769,11 +1069,35 @@
       "skillPath": "skills/econ-write/SKILL.md",
       "computedHash": "d578a4ad898901496259d5429be5c0f2630ade1a9361136cedef0d7ffd6b9c85"
     },
+    "email-marketing": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/email-marketing/SKILL.md",
+      "computedHash": "52a4893f79b4fd2f844735534cc209adb9afcc1e0974049228da6d814a564312"
+    },
     "email-validator": {
       "source": "sandbaseai/sandbase-skills",
       "sourceType": "github",
       "skillPath": "research/email-validator/SKILL.md",
       "computedHash": "f5f2276d071458eea8af5056f053b713995fef45ff8d63f2c35df5a17dc450a0"
+    },
+    "emergency-fund": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/emergency-fund/SKILL.md",
+      "computedHash": "806155fd6237627da57ac1c5bd7f5ee4b9c344779e1d04f867a0d4d60e357acc"
+    },
+    "employee-engagement-survey": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/employee-engagement-survey/SKILL.md",
+      "computedHash": "24dde84cc71a526d5574aa402da83ad137d2d02f5f1eea9da0217f1ac4b6324c"
+    },
+    "employee-handbook-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/employee-handbook-builder/SKILL.md",
+      "computedHash": "4e76158239e3fab5f7e515964044e70f50127087638150687093be2d124a4cd0"
     },
     "energykit": {
       "source": "dpearson2699/swift-ios-skills",
@@ -781,11 +1105,35 @@
       "skillPath": "skills/energykit/SKILL.md",
       "computedHash": "cea84a7bc2f09e30be1f6866e04c8e287ad9bb5ca206feb48e198cf7effea80a"
     },
+    "enrich-lead": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/enrich-lead/SKILL.md",
+      "computedHash": "dc68130354a31ecdda7e1510da34c59bcd4a49e1b9cbac7a2dcb2e19300f011c"
+    },
+    "escalation": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/escalation/SKILL.md",
+      "computedHash": "56a796da1e622e6b09527f69d30a63551e46080bda1526cd17ad4a5545e5a60a"
+    },
     "eventkit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/eventkit/SKILL.md",
       "computedHash": "e042af5dc598f6cf601ed2b5791125ad6407b18304658f9d7784c1c3c748ca2b"
+    },
+    "executive-communication": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/executive-communication/SKILL.md",
+      "computedHash": "061ee5912caf209a4a9807809b9456a67baf5ef56245aed7911fc95e78671a40"
+    },
+    "expense-optimizer": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/expense-optimizer/SKILL.md",
+      "computedHash": "43c8c17697979b4a79b0cc0c7e02176d5af6c7664a1e8843312f6510c4a1a412"
     },
     "experiment-designer": {
       "source": "WilliamWJHuang/ab-test-causal-inference-skills",
@@ -799,11 +1147,29 @@
       "skillPath": "skills/feature-flagging/SKILL.md",
       "computedHash": "51fd80db724a42c2adb7b87df81b28cf4c595c775fa898691c00322afb9c8ac6"
     },
+    "feature-spec": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/feature-spec/SKILL.md",
+      "computedHash": "b4a6f9d07ca29db6a62466e21f30822b8f5676d5d126c333df5f6b70dcd60f69"
+    },
+    "file-organizer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/file-organizer/SKILL.md",
+      "computedHash": "1b03d0f0879230671fba161b92d732c9ae7e947bfe061cbf008d39fa9df1ed8b"
+    },
     "financekit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/financekit/SKILL.md",
       "computedHash": "20986124b5dae01ad615c02b8f9941163ba31410c993b789ff9e1f6a8fba5a73"
+    },
+    "financial-goals": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/financial-goals/SKILL.md",
+      "computedHash": "ca1aa3255abe4f9a77e72c3a126e4f65250aec70ef114b5a1de66f64adfa8ae5"
     },
     "find-data": {
       "source": "QinghongLin/data2story-skill",
@@ -841,6 +1207,18 @@
       "skillPath": "skills/frontend-design/SKILL.md",
       "computedHash": "4eabc66183767153e404b39d1b839b1c37f2d82d86f0a0d7e880a579d8d62336"
     },
+    "fsi-comps-analysis": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/comps-analysis/SKILL.md",
+      "computedHash": "367cc80f4b072e31e0d3c7f5a487160bcb19f18b05aa4242ff578e0e7be313e3"
+    },
+    "fsi-strip-profile": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/strip-profile/SKILL.md",
+      "computedHash": "1a0b1b4492de09c99cd2dae6ea3fd86074430781b066ae8f40e57cf1e361fc4b"
+    },
     "full-output-enforcement": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
@@ -852,6 +1230,12 @@
       "sourceType": "github",
       "skillPath": "skills/en/testing-types/functional-testing/SKILL.md",
       "computedHash": "566a217736c53e4d7d47a3b92ae296e4f456742f6a4adcec84916021396e4b55"
+    },
+    "funding-digest": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/spglobal-funding-digest/SKILL.md",
+      "computedHash": "ef27010710e62755beec0b0432aae4d4477e09b2dfaba2ebf07c9ef9d9a05fc8"
     },
     "funnel-flow-architecture": {
       "source": "rampstackco/claude-skills",
@@ -913,6 +1297,12 @@
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "4dd886b0196bf43729d954ae326016f2bd9f5f79d892500b407c33a753362f14"
     },
+    "guideline-generation": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/guideline-generation/SKILL.md",
+      "computedHash": "1a0d19237b0aaf99647b00ed4f15bc32f81f3e5d3d00472dd3a64c3af6dc312d"
+    },
     "handoff": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -930,6 +1320,12 @@
       "sourceType": "github",
       "skillPath": "skills/soft-skill/SKILL.md",
       "computedHash": "7db385e4c5370e5a7fca9704a1361b056e4504ea6a03924bb86f33a4f00b5c73"
+    },
+    "home-office-deduction": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/home-office-deduction/SKILL.md",
+      "computedHash": "6216fdc32fb18b34476911ea305e936cd401673b72cc313dbbbfa99603e66721"
     },
     "homekit": {
       "source": "dpearson2699/swift-ios-skills",
@@ -967,11 +1363,29 @@
       "skillPath": "skills/in-progress/implement-spec/SKILL.md",
       "computedHash": "91670f6f5239fc64da91c2b2f6ada62a27d2f0e8e18215fefe53feeea7a43801"
     },
+    "import-transactions": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/import-transactions/SKILL.md",
+      "computedHash": "0adbe0b4971702f18771b1a1ea3f4409f0e60b78931c6e771b4b60a722593154"
+    },
     "improve-codebase-architecture": {
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
       "computedHash": "2449db6ab1ded9581f69fcc56c1f64818112d05e271fd4c5da23c6523f9d3d9d"
+    },
+    "incident-postmortem": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/incident-postmortem/SKILL.md",
+      "computedHash": "baf3e424b1b92df771d5249d3c9806ad8c494741b4fb4ecc320ef6bb94622ddf"
+    },
+    "incident-response": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/incident-response/SKILL.md",
+      "computedHash": "03a51b74494741ade644cf4a76b170bee860324c969e5609633383fa79b80a80"
     },
     "industrial-brutalist-ui": {
       "source": "Leonxlnx/taste-skill",
@@ -985,11 +1399,29 @@
       "skillPath": "skills/information-architecture/SKILL.md",
       "computedHash": "046d03be3ec85828d32c719411f5921ec33ed2fdfa2e03435069168d9c4666a2"
     },
+    "initiating-coverage": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/initiating-coverage/SKILL.md",
+      "computedHash": "a7b412545b16145a5b2ebdb14bc16086c8a33143fa58abdfba2955c995135074"
+    },
+    "insurance-audit": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/insurance-audit/SKILL.md",
+      "computedHash": "0039926a29e41f70ecd89aea45f019fc48217854747ab22323f317170ca15854"
+    },
     "integration-orchestrator": {
       "source": "rampstackco/claude-skills",
       "sourceType": "github",
       "skillPath": "skills/integration-orchestrator/SKILL.md",
       "computedHash": "463285be1a9c58267e768de3286e9998c810d5d47e4b9f84a60457c70ae551a5"
+    },
+    "interactive-dashboard-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/interactive-dashboard-builder/SKILL.md",
+      "computedHash": "4eb80bd006f3f38a3df7444bfb3435e86d0e791138b762948cef3996fa8da8f4"
     },
     "internal-comms": {
       "source": "anthropics/skills",
@@ -1002,6 +1434,30 @@
       "sourceType": "github",
       "skillPath": "skills/internationalization/SKILL.md",
       "computedHash": "5811b5d292300aafc1669c8424ebe39f5507e89dd565a3eb4169a2f16d1c82b7"
+    },
+    "interview-kit-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/interview-kit-builder/SKILL.md",
+      "computedHash": "c9e824cb4fbe23a86bdb3062c5ace2acc4da94fce41c185f88360f221cddd65e"
+    },
+    "inventory-forecasting": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "12-procurement-supply-chain/inventory-forecasting/SKILL.md",
+      "computedHash": "c6cb08faab0b8aef7c5b0a7044f81c58f3ead8edf7f5f63694725c550bc97db9"
+    },
+    "invoice-aging": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/invoice-aging/SKILL.md",
+      "computedHash": "289414c33c1e1fdf0bbbb0587eb47eadd18e908ac22677c58b2c6c2ad861baf2"
+    },
+    "invoice-organizer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/invoice-organizer/SKILL.md",
+      "computedHash": "3981cc7b74330cb508ffd53e03664e94eb3413b9fbf9fd14a123774de15a8499"
     },
     "ios-accessibility": {
       "source": "dpearson2699/swift-ios-skills",
@@ -1039,11 +1495,35 @@
       "skillPath": "skills/ios-simulator/SKILL.md",
       "computedHash": "992f700cacced89d430e8cca5b0d95f12f16c1b8c3aa06bf419d4ab61509609f"
     },
+    "job-description-writer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/job-description-writer/SKILL.md",
+      "computedHash": "f196ab6362e9658ae0ecab22771e8d48b42249cb48d016b14d45f10cdce54a48"
+    },
     "jobs-to-be-done": {
       "source": "wondelai/skills",
       "sourceType": "github",
       "skillPath": "jobs-to-be-done/SKILL.md",
       "computedHash": "d4ec70d690ae20b80664066a55964a9834e4d8134f5812ba6b7fb9104ea7c3b7"
+    },
+    "kaizen:kaizen": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/kaizen/SKILL.md",
+      "computedHash": "3f094fd2781103ac262cb07a7f54b168e60760bd9d98a1e6aad213e82ffffffd"
+    },
+    "knowledge-management": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/knowledge-management/SKILL.md",
+      "computedHash": "65033bb9d054dd2bbe19847926ce9c742fe5b97298c644ee2605e5d2ce7f2e7d"
+    },
+    "knowledge-synthesis": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/knowledge-synthesis/SKILL.md",
+      "computedHash": "eb8cdbb5e87810d8c994d646a43450e756ffa2e58ff9d4e379d4d4b0036c0efb"
     },
     "kotlin-concurrency-expert": {
       "source": "new-silvermoon/awesome-android-agent-skills",
@@ -1051,11 +1531,35 @@
       "skillPath": ".github/skills/concurrency_and_networking/kotlin-concurrency-expert/SKILL.md",
       "computedHash": "9b85fad8c81892908c8a4a7d0895c8f8b9647669640a22caa17f33c4553e3b49"
     },
+    "kpi-dashboard": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/kpi-dashboard/SKILL.md",
+      "computedHash": "b303af4421f0198c55b551897406684c0cceda51c01527d116d5c46025dbf12d"
+    },
+    "langsmith-fetch": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/langsmith-fetch/SKILL.md",
+      "computedHash": "7953660eee3f80ce985956e4ad2ed1f551efca6aad596b7f3479d5a829602180"
+    },
     "layout-paradigms-and-consistency": {
       "source": "dembrandt/dembrandt-skills",
       "sourceType": "github",
       "skillPath": "skills/layout-paradigms-and-consistency/SKILL.md",
       "computedHash": "f1e6da4502488ac5b76d63b037fee6600f3b769cd8e0d2beaf07d7c4179c99a8"
+    },
+    "lbo-model": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/lbo-model/SKILL.md",
+      "computedHash": "fe96ff4bcc9d95124203b25206f0f4d5be2e30d6831ca7698895fca4e89f61b7"
+    },
+    "lead-research-assistant": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/lead-research-assistant/SKILL.md",
+      "computedHash": "08cf5477dfdcbefa0758fad431c226efb9f09e108c8c6477b4a14db2d6810889"
     },
     "lean-startup": {
       "source": "wondelai/skills",
@@ -1063,11 +1567,29 @@
       "skillPath": "lean-startup/SKILL.md",
       "computedHash": "6e0787098217785221c5c11e30130dcc4df9b69798f179f4bfc1b198828f6f18"
     },
+    "legal-risk-assessment": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "06-legal-compliance/legal-risk-assessment/SKILL.md",
+      "computedHash": "fbc4dffe38a8b8d59ccee1d016654497dc1d9f2f4ceb5ca632dcb4715d22c07f"
+    },
+    "lifestyle-creep": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/lifestyle-creep/SKILL.md",
+      "computedHash": "5aea1d63084eb2e72ebb7460ee7f3d7e51b6df3eba6daa7828b69185856240ae"
+    },
     "loop-me": {
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/in-progress/loop-me/SKILL.md",
       "computedHash": "72e01a16929dbf6583afc469a49d64b28b1be4a6034c900decd94cd5a69ba6e6"
+    },
+    "ma-due-diligence": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/ma-due-diligence/SKILL.md",
+      "computedHash": "e2884fe7f93dcac8511ad1aec8b2325f690482e00322c15a843fe5137ed26318"
     },
     "mapkit": {
       "source": "dpearson2699/swift-ios-skills",
@@ -1087,11 +1609,29 @@
       "skillPath": "skills/mcp-builder/SKILL.md",
       "computedHash": "826e46adf81e1372282e205c34e1a2ee876e72148007726e4a2512599d2fef7b"
     },
+    "meeting-briefing": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "06-legal-compliance/meeting-briefing/SKILL.md",
+      "computedHash": "be14297008437408fc23e249da0e3c80373f0db38abbd66623e64485177352f7"
+    },
+    "meeting-insights-analyzer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/meeting-insights-analyzer/SKILL.md",
+      "computedHash": "73d94649632b9b146bb9a745a31efcbc315a8916f14619a327f009b54d1be656"
+    },
     "meeting-minutes": {
       "source": "sandbaseai/sandbase-skills",
       "sourceType": "github",
       "skillPath": "marketing/meeting-minutes/SKILL.md",
       "computedHash": "ad6077fe6a0afc09b9039bb3086221ffd30af9770ece3daf61505ed6796cdf20"
+    },
+    "memory-management": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/memory-management/SKILL.md",
+      "computedHash": "d2ddd5185c51d39c23ea333223c133d9d11198dda5664e322c9078e628912d54"
     },
     "metrickit": {
       "source": "dpearson2699/swift-ios-skills",
@@ -1104,6 +1644,12 @@
       "sourceType": "github",
       "skillPath": "skills/misc/migrate-to-shoehorn/SKILL.md",
       "computedHash": "6397731ced114f3657aa88b55ed13d1344a56d77ca449c568e3200c21740fa99"
+    },
+    "mileage-tracker": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/mileage-tracker/SKILL.md",
+      "computedHash": "dfc7283daec083ecb987604495728af987b9eca949eb69fd63c64e4d4412fbc8"
     },
     "minimalist-ui": {
       "source": "Leonxlnx/taste-skill",
@@ -1123,11 +1669,29 @@
       "skillPath": "skills/monitoring-and-alerting/SKILL.md",
       "computedHash": "7d6d87ae8464db31cb0f7b4c13cdecda6995a1456ffaabe8204e1716bacfccd2"
     },
+    "month-end-close": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/month-end-close/SKILL.md",
+      "computedHash": "09956f06828f4db46cb643047f0b3e7227945b54d538514bc57c49456483ea50"
+    },
+    "monthly-digest": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/monthly-digest/SKILL.md",
+      "computedHash": "9d4658a81f113b45f1e9473e1e33df13899c223a7b34a3c8fe708b4af962bc1e"
+    },
     "multi-agent-orchestration": {
       "source": "seb1n/awesome-ai-agent-skills",
       "sourceType": "github",
       "skillPath": "agent-engineering/multi-agent-orchestration/SKILL.md",
       "computedHash": "19f955f9574a6b96f9d9c2d72e2b3b004baaaf01f81524ac8491642ae6325346"
+    },
+    "multi-entity": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/multi-entity/SKILL.md",
+      "computedHash": "9af6b1ff93d4a4a4d53642aa73112c4f19557ea803fc6892c45299e978c96692"
     },
     "multi-step-form-design": {
       "source": "rampstackco/claude-skills",
@@ -1153,6 +1717,30 @@
       "skillPath": ".github/skills/ui/compose-navigation/SKILL.md",
       "computedHash": "7cf8e55918bd4191d29255540a0d223feda4f8bfea7f2d653c2e15ace4bb3d2d"
     },
+    "nda-triage": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "06-legal-compliance/nda-triage/SKILL.md",
+      "computedHash": "02390f48148288095b9b8a1cb47f78ff090f71ea66a17f04bad6de94e29980d3"
+    },
+    "net-worth": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/net-worth/SKILL.md",
+      "computedHash": "33309e33c5539091dea198f437b64b20429c18e7c7afed4d262332a87c1444dc"
+    },
+    "onboarding-planner": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/onboarding-planner/SKILL.md",
+      "computedHash": "412fab73be41ca14de4fd07bcb45f41bbbfd93c1754a055b1fdc99a96be76954"
+    },
+    "onboarding-playbook": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/onboarding-playbook/SKILL.md",
+      "computedHash": "00d8bc4706f0ef1a13098089609d1e91f5be2db5cc04e54204cad9d1861f893f"
+    },
     "onboarding-wizard-design": {
       "source": "rampstackco/claude-skills",
       "sourceType": "github",
@@ -1177,6 +1765,12 @@
       "skillPath": "skills/passkit/SKILL.md",
       "computedHash": "e392a0d972d56bcca6d315a909dc09ee424110af9924822ae8d6b33730b631a3"
     },
+    "paypal-import": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/paypal-import/SKILL.md",
+      "computedHash": "f3a5d03f10e9d753d9968dce94a68bb7c031ad5c390ad1a8137db5bd3e3239aa"
+    },
     "pdfkit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
@@ -1188,6 +1782,12 @@
       "sourceType": "github",
       "skillPath": "skills/pencilkit/SKILL.md",
       "computedHash": "896c38d219df8e6c52fb15e9ecacabf657fd6b1d8ed78027e3cf34a7041c1870"
+    },
+    "performance-review-assistant": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/performance-review-assistant/SKILL.md",
+      "computedHash": "020ded5c331a2b3c151df25f788d676307adb2ad4e66f4807348cefd2593bffd"
     },
     "permissionkit": {
       "source": "dpearson2699/swift-ios-skills",
@@ -1201,11 +1801,23 @@
       "skillPath": "skills/photokit/SKILL.md",
       "computedHash": "77a32bdeeb28448c514af0efc50232dcf5a2884a02d887686de6b13e6467f0df"
     },
+    "pitch-deck": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/pitch-deck/SKILL.md",
+      "computedHash": "52cb8677872896c311b474ad78c0339224af063bfe5e05e466c83b3e83a8fcb9"
+    },
     "plot-structure": {
       "source": "danjdewhurst/story-skills",
       "sourceType": "github",
       "skillPath": "skills/plot-structure/SKILL.md",
       "computedHash": "97bd7c6985867076a1b53b461db4549fefff4d1e3c2afad17de2b0a67a1cb9b9"
+    },
+    "postgres": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/postgres/SKILL.md",
+      "computedHash": "65fcea94233ddb5eb53bc9b48cab224a75191ee15df47f6b626fa53ee552b924"
     },
     "prd": {
       "source": "sandbaseai/sandbase-skills",
@@ -1213,11 +1825,53 @@
       "skillPath": "marketing/prd/SKILL.md",
       "computedHash": "0decf0148db41309b89425cd6698c70fc91580907d99578179460b7610451482"
     },
+    "prd-writer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/prd-writer/SKILL.md",
+      "computedHash": "0dbe8e06e37436b864406463e77b80c4d6ee861d32b1420f0f2678dba086d309"
+    },
+    "pricing-optimizer": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/pricing-optimizer/SKILL.md",
+      "computedHash": "287069388d62afde6bf3d342fa8fc5957d27a376eeecadc45674fe107e69ec27"
+    },
+    "process-optimization": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/process-optimization/SKILL.md",
+      "computedHash": "e7e7c31539a387cbbb6f74a5d7180bdc3f8e243dec5e6aa476a08b961ddf5917"
+    },
     "product-analytics-setup": {
       "source": "rampstackco/claude-skills",
       "sourceType": "github",
       "skillPath": "skills/product-analytics-setup/SKILL.md",
       "computedHash": "579887e44eba9df1675d0fc495cf4eeb500b349a5887d9b758a134bfc9d7626b"
+    },
+    "product-launch-playbook": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/product-launch-playbook/SKILL.md",
+      "computedHash": "0ce9225529c22e4c2f63340c46755626f3b68fc266a6e46b9a3d4ecc78062e6d"
+    },
+    "profit-loss": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/profit-loss/SKILL.md",
+      "computedHash": "a2c23679b314efa3f13221724ce4ea82a04d0f26de9079d7847cfdb3610c6473"
+    },
+    "project-status-report": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/project-status-report/SKILL.md",
+      "computedHash": "ecb7d394a82f529b9e7e299a83e2f4431fa601465a8775851b20ef9240899739"
+    },
+    "prospect": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/prospect-apollo/SKILL.md",
+      "computedHash": "cdcc9a727713a56b0e2d6dfd4772ef4c82bfecdb5a8da97e61366f0afeb799a8"
     },
     "prototype": {
       "source": "mattpocock/skills",
@@ -1230,6 +1884,18 @@
       "sourceType": "github",
       "skillPath": "skills/push-notifications/SKILL.md",
       "computedHash": "7afc693b1c38505f6dd9c78048785bc7f07dcb29f5cd971e08dfe8eaeb6ec7c3"
+    },
+    "qbr-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/qbr-builder/SKILL.md",
+      "computedHash": "f77c9b96e1efbd160071b9948e9acdbbb061d4b2f9eaf00ed30cc80de2caf954"
+    },
+    "quarterly-taxes": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/quarterly-taxes/SKILL.md",
+      "computedHash": "4e26492a8f31afb2e6251dfa362c210471319e298c83e169b7fa7976fe48196d"
     },
     "realitykit": {
       "source": "dpearson2699/swift-ios-skills",
@@ -1261,6 +1927,12 @@
       "skillPath": "skills/relevancekit/SKILL.md",
       "computedHash": "013d47112fd21a4896edcfa0bbe967e93240c055a9cca5847303fbf9b5684c42"
     },
+    "rental-property": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/rental-property/SKILL.md",
+      "computedHash": "c2cbbf982add6b2dff73c4c6f5fcebb7ccaa78322763ab9dab91e6fce444d778"
+    },
     "research": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -1272,6 +1944,18 @@
       "sourceType": "github",
       "skillPath": "skills/engineering/resolving-merge-conflicts/SKILL.md",
       "computedHash": "63b2dcadbe9124caeb3448f1378286fe18dcefb2494f60e136831b8b4986ca27"
+    },
+    "resource-planning": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/resource-planning/SKILL.md",
+      "computedHash": "ced2d03f9063597e01f925157c1c20f72d8c09e04078e3773dc09ea8bf52fc85"
+    },
+    "response-drafting": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/response-drafting/SKILL.md",
+      "computedHash": "bffd37117d973ca90f4fabef30a5f428a83b89df14e416d432db5d097438f684"
     },
     "restaurant-ads": {
       "source": "zubair-trabzada/ai-restaurant-claude",
@@ -1357,11 +2041,35 @@
       "skillPath": "skills/in-progress/retro/SKILL.md",
       "computedHash": "b9bd2e5e0378214bf54d2a293df50490669b845a4c2a71c8f747ce8ab365f53a"
     },
+    "revenue-concentration": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/revenue-concentration/SKILL.md",
+      "computedHash": "57330404f3e133eb21dd5e02f10934147cd69bcbc4472bad5793f59bf121467b"
+    },
     "revision-continuity": {
       "source": "danjdewhurst/story-skills",
       "sourceType": "github",
       "skillPath": "skills/revision-continuity/SKILL.md",
       "computedHash": "871b8120d117bcd7cb7f9a8854ebf83b7e7d61e80b493c774e8704126f2bd324"
+    },
+    "rfp-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "12-procurement-supply-chain/rfp-builder/SKILL.md",
+      "computedHash": "ed19d447452e821f259a218f48022973622c4ae7660c0d705933987151b875b1"
+    },
+    "risk-assessment": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/risk-assessment/SKILL.md",
+      "computedHash": "8b96b86e6700871c9c88f0576add441f6a74df35445d5a67619a896a6f700d51"
+    },
+    "roadmap-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/roadmap-builder/SKILL.md",
+      "computedHash": "7c417b70991266fb601877dbc5a53f09a3f60b61ca6141c84dbbb7a4777a79ca"
     },
     "robotics-design-patterns": {
       "source": "arpitg1304/robotics-agent-skills",
@@ -1369,11 +2077,23 @@
       "skillPath": "skills/robotics-design-patterns/SKILL.md",
       "computedHash": "45a96f3dbdc2ce75a71216a478449ff5f451e253088e26575c0106340a227269"
     },
+    "runway-calculator": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/runway-calculator/SKILL.md",
+      "computedHash": "23d28b31c391d776163bc4a19d80cce4fa9f7bfb53f4c46c9862e1988d51cdc8"
+    },
     "rxjava-to-coroutines-migration": {
       "source": "new-silvermoon/awesome-android-agent-skills",
       "sourceType": "github",
       "skillPath": ".github/skills/migration/rxjava-to-coroutines-migration/SKILL.md",
       "computedHash": "1f6f3f71731f6eb4a27bb9d3df928296bfe70de18e8ac64a53b37957359e8acd"
+    },
+    "sales-tax-nexus": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/sales-tax-nexus/SKILL.md",
+      "computedHash": "c6c1cc6e92b96bad3a3e179a0e266e303a05392a294f8eef3019454e505516d9"
     },
     "scaffold-exercises": {
       "source": "mattpocock/skills",
@@ -1393,6 +2113,18 @@
       "skillPath": "plugins/nateherk-design/skills/scrollcraft/SKILL.md",
       "computedHash": "e3cc645f88fc987a13f21544837d9c29596c0633511787c9dbd180d8238e867b"
     },
+    "search-strategy": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/search-strategy/SKILL.md",
+      "computedHash": "fd779b95d8321492c7014a938a18079a697a7eb48c757cd5d07997c36b559518"
+    },
+    "seasonal-patterns": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/seasonal-patterns/SKILL.md",
+      "computedHash": "cd06663ab52ec339b75619cb0ed925eaf25352632e99f1bb117d104c9fdf0a80"
+    },
     "security-baseline": {
       "source": "rampstackco/claude-skills",
       "sourceType": "github",
@@ -1411,6 +2143,12 @@
       "skillPath": "skills/seo/SKILL.md",
       "computedHash": "01a735ac18ceb15536ac40b11a5712b3ab8f78ebe94748b3ebc3afc7f58a6f2f"
     },
+    "seo-content-optimizer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/seo-content-optimizer/SKILL.md",
+      "computedHash": "392f91ef3967c696015291ecd1cc83fccf6a269a94106320b27d5f2e8afd34bf"
+    },
     "seo-landing": {
       "source": "aleksandr-alhoff/seo-landing",
       "sourceType": "github",
@@ -1428,6 +2166,12 @@
       "sourceType": "github",
       "skillPath": "skills/seo-site-health-audit/SKILL.md",
       "computedHash": "840b87233c289774b09eb2fdc1d7af0a4c4941f4e9f50fd537a681341b0328e0"
+    },
+    "sequence-load": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/sequence-load/SKILL.md",
+      "computedHash": "0579ba1d88acb9a264e95c9039061329ae180f1ead839726d6a5b72b1aaa43cc"
     },
     "setup-matt-pocock-skills": {
       "source": "mattpocock/skills",
@@ -1459,11 +2203,53 @@
       "skillPath": "skills/slack-gif-creator/SKILL.md",
       "computedHash": "fab4fcfcaed371071069d61a3ab94dff15d10d36403ff269d147ea986cd98083"
     },
+    "slack-messaging": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/slack-messaging/SKILL.md",
+      "computedHash": "c61468452cd59a348d0800ed5454c4206084d11089fffd14d77a685a29c7ba93"
+    },
+    "slack-search": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "11-customer-success/slack-search/SKILL.md",
+      "computedHash": "e5e3036a66093d3ff1d392b7c56fab0ba5d2f0d026d6bc5717f27d6935918772"
+    },
     "slides": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
       "skillPath": ".claude/skills/slides/SKILL.md",
       "computedHash": "c72a8bcd2ee98a7caab8f00a816c7e7ccfa46bba6682539db2186e71220155f1"
+    },
+    "smart-categorize": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/smart-categorize/SKILL.md",
+      "computedHash": "256638cc1347c42058b13eef55cef129fb36bca91c499ac5b4a85e79ddae5ba8"
+    },
+    "smart-split": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/smart-split/SKILL.md",
+      "computedHash": "848d5ad29e167e026fa3fde6bee9cc6fc1ff747e7d72c0df687ef70ee4bf0469"
+    },
+    "social-media-strategy": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/social-media-strategy/SKILL.md",
+      "computedHash": "ecc67ca864e44c5a155d8a92e0f098bc436dfa2aa642043a7f4ef0f6c1c20774"
+    },
+    "sop-builder": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/sop-builder/SKILL.md",
+      "computedHash": "7f4317b047e948922bc07062046caa76520c353e1b830bdc4e37b0bf069fc6db"
+    },
+    "source-management": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/source-management/SKILL.md",
+      "computedHash": "8ac8208e1e834c3bfe705b84181cb98d1b16d3d13aa35b5d1d8ad220680657f1"
     },
     "sparring-partner": {
       "source": "QinghongLin/data2story-skill",
@@ -1477,11 +2263,47 @@
       "skillPath": "skills/speech-recognition/SKILL.md",
       "computedHash": "5523ded1ab55913de092684e7c7dc36a759fde5e091d3c7b8cea491563a17a5f"
     },
+    "spending-review": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/spending-review/SKILL.md",
+      "computedHash": "0184e089349c2bed4a2e00dedade0d953a8a84fe698a6c1acc2ff3e4b8fce4df"
+    },
+    "sprint-planning": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/sprint-planning/SKILL.md",
+      "computedHash": "8f0ce85d102ee5f675087b41ff69d76cdefb0227875607632a3abce706f3174d"
+    },
     "spritekit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/spritekit/SKILL.md",
       "computedHash": "2f35eb80b826cb27255130581333e431833797eabc3359958e79ec0f84de67f4"
+    },
+    "sql-queries": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/sql-queries/SKILL.md",
+      "computedHash": "1cefa6c5cfb5652dbf594a58555830c4e3a5454612f84e13ff8bde9c9c8579be"
+    },
+    "square-import": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/square-import/SKILL.md",
+      "computedHash": "ad751fbbe2c88988b919bec1e16f87e8aea27a8df596fb268e398f30e0cd85be"
+    },
+    "state-tax-estimator": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/state-tax-estimator/SKILL.md",
+      "computedHash": "e669c207e5c8ccb50af1a925673828d1bf570c1467eb6e8fd0e2861644506b3e"
+    },
+    "statistical-analysis": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "10-data-analytics/statistical-analysis/SKILL.md",
+      "computedHash": "c2e55066517148585900127ba4863cf5f3b49728c63d37cd53ff7db0fd1f224d"
     },
     "stitch-design-taste": {
       "source": "Leonxlnx/taste-skill",
@@ -1512,6 +2334,30 @@
       "sourceType": "github",
       "skillPath": "storybrand-messaging/SKILL.md",
       "computedHash": "dda700bf07012a11f33ff8f225d7f39a0e283b71440d3f9e9eb5fb76da428a61"
+    },
+    "strategic-planning": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "01-executive-leadership/strategic-planning/SKILL.md",
+      "computedHash": "948c0c3251aa7600e5a091d29e95d4336ea506d3f07a309863dceed334808089"
+    },
+    "stripe-import": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/stripe-import/SKILL.md",
+      "computedHash": "b2b32161b1dc214763de3ca54b6bad959b022c0430de5ee29ce889311be1e343"
+    },
+    "subscription-audit": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/subscription-audit/SKILL.md",
+      "computedHash": "8a7280b19c2e0ee695dcc3b1a1e3f17804aab7bef86daf777bf15905eec3f6f9"
+    },
+    "supplier-scorecard": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "12-procurement-supply-chain/supplier-scorecard/SKILL.md",
+      "computedHash": "24b6fbe039d8182c73823a34394ff6c5f90345536c06aea607e9b217bfdf9122"
     },
     "swift-api-design-guidelines": {
       "source": "dpearson2699/swift-ios-skills",
@@ -1633,17 +2479,41 @@
       "skillPath": "skills/swiftui-webkit/SKILL.md",
       "computedHash": "08a604819b46a5cbf2d86c8bf1f7db464d6f60e440df79f7dca33c7271d19cda"
     },
+    "system-design": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/system-design/SKILL.md",
+      "computedHash": "5915b5f79ae74f20473c4922075b091f290374d26b26c927af9c767102424ac4"
+    },
     "tabletopkit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/tabletopkit/SKILL.md",
       "computedHash": "084499a8d318c37a54509c24b2d992136dff6fed34521c32c1bbf8505b50683d"
     },
+    "tailored-resume-generator": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "03-human-resources/resume-generator/SKILL.md",
+      "computedHash": "37ad72564c908b09bcccc8a34087bef06b12b4c38dc68d76cddba5afc588bd92"
+    },
     "task-management": {
       "source": "sandbaseai/sandbase-skills",
       "sourceType": "github",
       "skillPath": "marketing/task-management/SKILL.md",
       "computedHash": "fc1042d0ec96cf110922ee72e563a9c8232b0d62463dc5166eaed012ee62fcc8"
+    },
+    "tax-penalty-calc": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/tax-penalty-calc/SKILL.md",
+      "computedHash": "7ca3dbf7bc5633f66836cc40825b5ab8109d47485c4b5eca0b335b210c6f8612"
+    },
+    "tax-prep": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/tax-prep/SKILL.md",
+      "computedHash": "1218914ac18c0c67b247d13ff052358175b33b4dec544fed156c01f9e4d9d485"
     },
     "tdd": {
       "source": "mattpocock/skills",
@@ -1656,6 +2526,30 @@
       "sourceType": "github",
       "skillPath": "skills/productivity/teach/SKILL.md",
       "computedHash": "b8a69574c7a019bed84e84313dc8bf02e1d1bf925ba43057d433217c63863206"
+    },
+    "tear-sheet": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "02-finance-accounting/spglobal-tear-sheet/SKILL.md",
+      "computedHash": "0f3477bb160025c2e3c81b5d4c15ff418c9d93e2f9b9f0d69288325b7d3715a7"
+    },
+    "tech-debt": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/tech-debt/SKILL.md",
+      "computedHash": "3f0795a17cd18ea117f41bcfb8fef66fa17b1a00a2c1a0a7f134e090f0dcdb92"
+    },
+    "test-driven-development": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/test-driven-development/SKILL.md",
+      "computedHash": "ee9f03c4c6592be2933409f2d73ff5861412fb8cacde2eaca0e914d73ab2de07"
+    },
+    "testing-strategy": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "08-it-engineering/testing-strategy/SKILL.md",
+      "computedHash": "2fe64e97a596e862cd946bb8cddbbf4e9f1e1f21ca817f586111a25af474d0f8"
     },
     "theme-factory": {
       "source": "anthropics/skills",
@@ -1705,6 +2599,12 @@
       "skillPath": "skills/engineering/triage/SKILL.md",
       "computedHash": "b954d74c219c805bf353d6642251a713c9b2e9cfdb11babfe588bcfe7dfd16d5"
     },
+    "twitter-algorithm-optimizer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "04-marketing/twitter-algorithm-optimizer/SKILL.md",
+      "computedHash": "4dacb151d9267f390a2a1aa5ff06ea984c2270f6a188315dcb8a65cd0d4bcf34"
+    },
     "ui-styling": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
@@ -1717,6 +2617,12 @@
       "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
       "computedHash": "523b8063c07eedd2b8a1ca94d7a0be9ad340026bd9f21a1eda0b6be2a855298f"
     },
+    "user-research-synthesizer": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "09-product-management/user-research-synthesizer/SKILL.md",
+      "computedHash": "601cfb62eb0ee78b47f094773c02dffff56c033615e0ef59eafeb0d0efe59dbb"
+    },
     "ux-writing": {
       "source": "content-designer/ux-writing-skill",
       "sourceType": "github",
@@ -1728,6 +2634,24 @@
       "sourceType": "github",
       "skillPath": "marketing/variance-analysis/SKILL.md",
       "computedHash": "37b7ae5e53f7f8011b284ccb8f8e731bc383528c753a6858d4a42b08ec1adb61"
+    },
+    "vendor-evaluation": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "12-procurement-supply-chain/vendor-evaluation/SKILL.md",
+      "computedHash": "ffe31fccdb61050fed5dcf8aa7110d72b651342d60c8b4932ba44a4b0ee405c7"
+    },
+    "vendor-management": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "07-operations/vendor-management/SKILL.md",
+      "computedHash": "6f656577f9af7897f1f19d4ac0026c55a6134293ac3a02ff5f9562ba833a357e"
+    },
+    "venmo-reconciler": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/venmo-reconciler/SKILL.md",
+      "computedHash": "89418afdd6e492ca3abdabd27b34d373560e7a5509823f38ddd8305cc2a26f7a"
     },
     "vercel-cli-with-tokens": {
       "source": "vercel-labs/agent-skills",
@@ -1819,11 +2743,23 @@
       "skillPath": "skills/webapp-testing/SKILL.md",
       "computedHash": "ad5b1fc52807e9afa4635e59218a026b164dc58b6c3f41b0f7c644dcd6ccf572"
     },
+    "weekly-prep-brief": {
+      "source": "w95/awesome-claude-corporate-skills",
+      "sourceType": "github",
+      "skillPath": "05-sales/weekly-prep-brief/SKILL.md",
+      "computedHash": "d60fe1eeaa88a22898acd94a21f4028d85b6ce0a43f26e19abaf3bab78899a97"
+    },
     "widgetkit": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/widgetkit/SKILL.md",
       "computedHash": "e6a255aa3c5a7bc70e114aaf9bf6ed24d4156f786ef0bd1c906058638535bd6f"
+    },
+    "wise-import": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "business/wise-import/SKILL.md",
+      "computedHash": "8fb824909237f83aa4ffe01c55932628e34a2314d4b5ad6997f2bc60d4aa555f"
     },
     "wizard": {
       "source": "mattpocock/skills",
@@ -1872,6 +2808,18 @@
       "sourceType": "github",
       "skillPath": ".github/skills/migration/xml-to-compose-migration/SKILL.md",
       "computedHash": "50cff8ebe440fe2b13bd1f7c06f1d30f1dffc9597aaa16fc215de9a20b5952eb"
+    },
+    "year-end-summary": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "shared/year-end-summary/SKILL.md",
+      "computedHash": "f91518a267b26547e569f2e26828cc4ac23cc67dcae5164171de456aab3f521a"
+    },
+    "zero-based-budget": {
+      "source": "openaccountant/skills",
+      "sourceType": "github",
+      "skillPath": "personal/zero-based-budget/SKILL.md",
+      "computedHash": "a1b821afb77c113115e3d5cbeebdcf7ecbf77f1291e4610f52e975aabcb22b88"
     }
   }
 }
