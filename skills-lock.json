@@ -1567,6 +1567,12 @@
       "skillPath": "skills/gamekit/SKILL.md",
       "computedHash": "50b65ae717ff78ea57121402cb7efd8a9904a11cf54d33432ab7a42c4b8d6fdc"
     },
+    "generate-image": {
+      "source": "adamd9/skill-image-gen",
+      "sourceType": "github",
+      "skillPath": "skills/generate-image/SKILL.md",
+      "computedHash": "f44895a266dab7b24ef433d3dcab54f14b0c98a373b671d3ce7c5320110db118"
+    },
     "generate-ui-from-brand": {
       "source": "dembrandt/dembrandt-skills",
       "sourceType": "github",
