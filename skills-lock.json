@@ -439,6 +439,24 @@
       "skillPath": "skills/avkit/SKILL.md",
       "computedHash": "e040830cb39cf33195847476d6dc1538bc931b65711f4765ac6f96564b1145ef"
     },
+    "aws-ami-builder": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/packer/skills/aws-ami-builder/SKILL.md",
+      "computedHash": "8f815fc6bda6622cb9444f56adb7c618265dec6227bf551b64db8f61510830f5"
+    },
+    "azure-image-builder": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/packer/skills/azure-image-builder/SKILL.md",
+      "computedHash": "b184520ab085e6a558363e95a10fef74e00a052e0eb99f9befdd17aafe062010"
+    },
+    "azure-verified-modules": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/azure-verified-modules/SKILL.md",
+      "computedHash": "3b36357f6affdfb4397cdeaa57d1e94f1dd4e148c110fe360b8f17777e42ca8f"
+    },
     "background-processing": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
@@ -2185,6 +2203,12 @@
       "skillPath": "personal/net-worth/SKILL.md",
       "computedHash": "33309e33c5539091dea198f437b64b20429c18e7c7afed4d262332a87c1444dc"
     },
+    "new-terraform-provider": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/new-terraform-provider/SKILL.md",
+      "computedHash": "9fe1b7b4b0f5de81ac8b8017c9cd8d8bc5104b55f5b15dfd5e3da3bd0cb5c03c"
+    },
     "onboarding-planner": {
       "source": "w95/awesome-claude-corporate-skills",
       "sourceType": "github",
@@ -2377,11 +2401,59 @@
       "skillPath": "skills/engineering/prototype/SKILL.md",
       "computedHash": "d3fc74689bd993e39c44bfae510d014eecffbeec2922764b065377fd1327c0f6"
     },
+    "provider-actions": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/provider-actions/SKILL.md",
+      "computedHash": "8acc8dd1743611131f08986b5f09110ee7b7734b9236d629a63409c9b804888a"
+    },
+    "provider-configuration": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/provider-configuration/SKILL.md",
+      "computedHash": "f995b0ff603295d6fb417d0cbaa9bc40d9a6bd1dc32e72bc048a9b0384110cf2"
+    },
+    "provider-docs": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/provider-docs/SKILL.md",
+      "computedHash": "c1b792e16ac77d2060cb7d67111a518038de1cf9e8d0a29c552b64668b71f6e7"
+    },
+    "provider-ephemeral-resources": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/provider-ephemeral-resources/SKILL.md",
+      "computedHash": "ed2acc4a339ada5ee6f948b74857e8661c7422528d58292e616e68057bdc112c"
+    },
+    "provider-framework-migration": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/provider-framework-migration/SKILL.md",
+      "computedHash": "863a96094df54e899888f317b24b7c093e19e07e84219b470858a798bdf96eed"
+    },
+    "provider-resources": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/provider-resources/SKILL.md",
+      "computedHash": "328e011238ea6943c010ce8566129ff073e2de288a2c255528bd4a518bde64b3"
+    },
+    "provider-test-patterns": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/provider-test-patterns/SKILL.md",
+      "computedHash": "1f3440fa61b8a7f4e4b1efe82e74fa5094b833734de06bc2ada71ed6c6b43a78"
+    },
     "push-notifications": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
       "skillPath": "skills/push-notifications/SKILL.md",
       "computedHash": "7afc693b1c38505f6dd9c78048785bc7f07dcb29f5cd971e08dfe8eaeb6ec7c3"
+    },
+    "push-to-registry": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/packer/skills/push-to-registry/SKILL.md",
+      "computedHash": "da6295b1111e9b4cac232e3fe5bffbb5bc28682febb871e90f0f326eb892322d"
     },
     "qbr-builder": {
       "source": "w95/awesome-claude-corporate-skills",
@@ -2418,6 +2490,12 @@
       "sourceType": "github",
       "skillPath": "skills/redesign-skill/SKILL.md",
       "computedHash": "b405eee0e0e80fc243f731d9aa368bca307e356db7e6157d27101d369dac6726"
+    },
+    "refactor-module": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/refactor-module/SKILL.md",
+      "computedHash": "08139a8310403095fafbe92ee1a0ceee6736d179fd235fb6ef1c434925b8cb0b"
     },
     "refactoring-patterns": {
       "source": "wondelai/skills",
@@ -2586,6 +2664,12 @@
       "sourceType": "github",
       "skillPath": "skills/robotics-design-patterns/SKILL.md",
       "computedHash": "45a96f3dbdc2ce75a71216a478449ff5f451e253088e26575c0106340a227269"
+    },
+    "run-acceptance-tests": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/run-acceptance-tests/SKILL.md",
+      "computedHash": "c8f2023c6a357b2e6b25d82c321c11d600a5cb5c355a751c83820fd093167bc9"
     },
     "runway-calculator": {
       "source": "openaccountant/skills",
@@ -3001,6 +3085,18 @@
       "skillPath": "personal/subscription-audit/SKILL.md",
       "computedHash": "8a7280b19c2e0ee695dcc3b1a1e3f17804aab7bef86daf777bf15905eec3f6f9"
     },
+    "supabase": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/supabase/SKILL.md",
+      "computedHash": "583344c20e90f3654dbb0632f088d89fd9f1dde8ac85e8a644dd12eee59b1380"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
+      "computedHash": "e14e276241805c97dbcfe40dcbea1a3035269cc7293cac4b1832dda41a835e60"
+    },
     "supplier-scorecard": {
       "source": "w95/awesome-claude-corporate-skills",
       "sourceType": "github",
@@ -3186,6 +3282,36 @@
       "sourceType": "github",
       "skillPath": "08-it-engineering/tech-debt/SKILL.md",
       "computedHash": "3f0795a17cd18ea117f41bcfb8fef66fa17b1a00a2c1a0a7f134e090f0dcdb92"
+    },
+    "terraform-policy": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/terraform-policy/SKILL.md",
+      "computedHash": "3117d5c3efb29d364188391f194304953f71e0d6cf024b1df072121efcb9253d"
+    },
+    "terraform-search-import": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/terraform-search-import/SKILL.md",
+      "computedHash": "4957a6b44f879a318929303d282899790d275ec4e15b33b2004b699a0dac91ce"
+    },
+    "terraform-stacks": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/terraform-stacks/SKILL.md",
+      "computedHash": "c27aad34a162149661133d4db77f042c08c22b8ef93c95a8f3c0941589898b7e"
+    },
+    "terraform-style-guide": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/terraform-style-guide/SKILL.md",
+      "computedHash": "3b914c5ae01a7101d45b5222fbc38e0be6eb7412deba5f54d471905f22af70c6"
+    },
+    "terraform-test": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/terraform/skills/terraform-test/SKILL.md",
+      "computedHash": "2d69da79a8e714dbdfee4c9a6b323cf33cef89e6b6dcee154d6b3009814c7240"
     },
     "test-driven-development": {
       "source": "w95/awesome-claude-corporate-skills",
@@ -3558,6 +3684,12 @@
       "sourceType": "github",
       "skillPath": "skills/widgetkit/SKILL.md",
       "computedHash": "e6a255aa3c5a7bc70e114aaf9bf6ed24d4156f786ef0bd1c906058638535bd6f"
+    },
+    "windows-builder": {
+      "source": "hashicorp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/packer/skills/windows-builder/SKILL.md",
+      "computedHash": "b6e37e9e8c544f8b11149729408092c908e2382811a8d1610baef4bb69445524"
     },
     "wise-import": {
       "source": "openaccountant/skills",
