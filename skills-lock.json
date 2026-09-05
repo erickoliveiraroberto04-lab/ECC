@@ -607,6 +607,12 @@
       "skillPath": "06-legal-compliance/canned-responses/SKILL.md",
       "computedHash": "2ecae5a74469e5b1e0b736b3e52a57e3aa4cd9704b82171b477e025fa46b261c"
     },
+    "canvas-generative": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/canvas-generative/SKILL.md",
+      "computedHash": "c7375289c298afb276d5d467cb309dcd213e110541d046c7de440cc221e8c572"
+    },
     "carplay": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
@@ -624,6 +630,12 @@
       "sourceType": "github",
       "skillPath": "marketing/cash-flow-snapshot/SKILL.md",
       "computedHash": "ea96f62992e7f7144be85c52877471d7409308e122f4469bfd9788c845f2e7f5"
+    },
+    "cast": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/cast/SKILL.md",
+      "computedHash": "a88486cb22495c3c82176f648d778021d302cf8c18b10ed351e7d439c12848f8"
     },
     "change-management": {
       "source": "w95/awesome-claude-corporate-skills",
@@ -805,6 +817,24 @@
       "skillPath": "06-legal-compliance/compliance-tracking/SKILL.md",
       "computedHash": "a9a82d24c26a0896ad00915ead908045156713256f4cc2796207078df22256c3"
     },
+    "compose-graphics": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/compose-graphics/SKILL.md",
+      "computedHash": "dd419a512e3ca5245db6e0b1390ca19162e0f5ac06a99a50525cd47af4015ed6"
+    },
+    "compose-motion": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/compose-motion/SKILL.md",
+      "computedHash": "8f082bc29b552d24473c86b7404323029e08e147bb01bcc9a449bb87a65629a4"
+    },
+    "compose-multiplatform": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/compose-multiplatform/SKILL.md",
+      "computedHash": "9210a5d7248e850aa926392705d863e40f0de321d0373d611a440623022c9962"
+    },
     "compose-outreach": {
       "source": "w95/awesome-claude-corporate-skills",
       "sourceType": "github",
@@ -943,6 +973,12 @@
       "skillPath": "skills/cryptotokenkit/SKILL.md",
       "computedHash": "48cd4f38218b8de5f9a94273139f693822dac5a559f0d079f6e57a5556ab79e4"
     },
+    "css-native": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/css-native/SKILL.md",
+      "computedHash": "f26e667d9be5499d62cfda1c507891c329e6545f7b491a32d9ff0e8f5275024d"
+    },
     "csv-data-summarizer": {
       "source": "w95/awesome-claude-corporate-skills",
       "sourceType": "github",
@@ -1069,6 +1105,12 @@
       "skillPath": "shared/depreciation-schedule/SKILL.md",
       "computedHash": "98226c8225ad6ca577c47f23a02002a8ed80bc3c960caaadbc6253f7d796d64b"
     },
+    "design-audit": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/design-audit/SKILL.md",
+      "computedHash": "093b3ee66ae26020ad7d85114d9466ce337712e00be5c363a67c304d45f98bb5"
+    },
     "design-code": {
       "source": "plugin87/ux-ui-agent-skills",
       "sourceType": "github",
@@ -1140,6 +1182,12 @@
       "sourceType": "github",
       "skillPath": ".claude/skills/design-tokens/SKILL.md",
       "computedHash": "ff070b33af038fe95289791d63cd9e06421dde1688d252a15962db2f59af879b"
+    },
+    "desktop-principles": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/desktop-principles/SKILL.md",
+      "computedHash": "e1006a145e83654eaa98c547af78cffaf76815f119a50d8121bf3f6edd2e8e1b"
     },
     "developer-growth-analysis": {
       "source": "w95/awesome-claude-corporate-skills",
@@ -1633,6 +1681,12 @@
       "skillPath": "skills/form-strategy/SKILL.md",
       "computedHash": "5c9a5fad0deb4d6beb6dbaeeda201e02def70932b73abc1e77de266268da7ae5"
     },
+    "framer-motion": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/framer-motion/SKILL.md",
+      "computedHash": "d734e0e926e280519ce5b4034c1e2b70066ac3e82f1bcd0ba8995222681545af"
+    },
     "frontend-component-build": {
       "source": "rampstackco/claude-skills",
       "sourceType": "github",
@@ -1764,6 +1818,12 @@
       "sourceType": "github",
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "4dd886b0196bf43729d954ae326016f2bd9f5f79d892500b407c33a753362f14"
+    },
+    "gsap": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/gsap/SKILL.md",
+      "computedHash": "cd63f0075c41ba87a8863a9091fa725aae036311fb1151d911dffc2eb3f67b94"
     },
     "gsap-core": {
       "source": "greensock/gsap-skills",
@@ -2305,6 +2365,12 @@
       "skillPath": "skills/minimalist-skill/SKILL.md",
       "computedHash": "08873a3131d3be27bef9bf3304b310b16b44ca6e3561aebe532797be3443f6bd"
     },
+    "mobile-principles": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/mobile-principles/SKILL.md",
+      "computedHash": "5606ff5ddedc7510b5ceb3cdafad057e355f347a948266f01c28537583231575"
+    },
     "mom-test": {
       "source": "wondelai/skills",
       "sourceType": "github",
@@ -2376,6 +2442,12 @@
       "sourceType": "github",
       "skillPath": "skills/motion-design/SKILL.md",
       "computedHash": "9fcf9130cc46ee8fd1d8e09a9263347a9d76efbcbfa46591cc4cefaf19bbb453"
+    },
+    "motion-principles": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/motion-principles/SKILL.md",
+      "computedHash": "7ff17efe22235bb374059f4b78bcc46d03b83728f0c6b6f735abf719cad53181"
     },
     "multi-agent-orchestration": {
       "source": "seb1n/awesome-ai-agent-skills",
@@ -2544,6 +2616,12 @@
       "sourceType": "github",
       "skillPath": "skills/onboarding-wizard-design/SKILL.md",
       "computedHash": "df03bbde5ede735ce7e2b5d4a3413a0fffea8ad3771acefff9fea7f7f7e9c93a"
+    },
+    "paint": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/paint/SKILL.md",
+      "computedHash": "75ab631656aa064b88f0b1e0a8c0d21db07cf8e69017a40057455dfd4328aca5"
     },
     "paper-search-pro": {
       "source": "O0000-code/paper-search-pro",
@@ -3655,6 +3733,12 @@
       "skillPath": "skills/swiftui-gestures/SKILL.md",
       "computedHash": "00c984b4cf876ad14ac0a274dd8a40190a71b5a747dfa324ad3ba92e3eb270e7"
     },
+    "swiftui-graphics": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/swiftui-graphics/SKILL.md",
+      "computedHash": "0476b97172385eec4be623a38429f1b3b2d0f715b26f06f44da38cb9dc4547d0"
+    },
     "swiftui-layout-components": {
       "source": "dpearson2699/swift-ios-skills",
       "sourceType": "github",
@@ -3666,6 +3750,12 @@
       "sourceType": "github",
       "skillPath": "skills/swiftui-liquid-glass/SKILL.md",
       "computedHash": "ef23d30a2ffd155c0cd1ec4a63ccd3bd3841c477658883a1fc408bffb2bd0495"
+    },
+    "swiftui-motion": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/swiftui-motion/SKILL.md",
+      "computedHash": "90dfaee9dc5fc026f82016171b4fa0c6dae672045350df53bae3a6541df2c16a"
     },
     "swiftui-navigation": {
       "source": "dpearson2699/swift-ios-skills",
@@ -3804,6 +3894,12 @@
       "sourceType": "github",
       "skillPath": "skills/theme-factory/SKILL.md",
       "computedHash": "598ddfa9784ae2a8c55be5dbb047b98564d875dea6f4669168a87ae1ea1a4ed3"
+    },
+    "threejs-r3f": {
+      "source": "AThevon/genjutsu",
+      "sourceType": "github",
+      "skillPath": "skills/_jutsu/threejs-r3f/SKILL.md",
+      "computedHash": "ff6129e1f97c2bcb2beebfd6f7ada96a3e19346fcfbaed7f8dfb382b0277d38c"
     },
     "ticket-triage": {
       "source": "sandbaseai/sandbase-skills",
@@ -4022,10 +4118,10 @@
       "computedHash": "360a6007fae358c852fe0ba5efc0f69deee4768a00b9bdc8cd393a3f8491626a"
     },
     "ui-ux-pro-max": {
-      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "source": "AThevon/genjutsu",
       "sourceType": "github",
-      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
-      "computedHash": "523b8063c07eedd2b8a1ca94d7a0be9ad340026bd9f21a1eda0b6be2a855298f"
+      "skillPath": "skills/_jutsu/ui-ux-pro-max/SKILL.md",
+      "computedHash": "e244e2cd59c270488e6becb1000e1e7075b4914aa158d80609590e1bea9538c0"
     },
     "use-railway": {
       "source": "railwayapp/railway-skills",
