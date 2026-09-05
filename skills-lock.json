@@ -2371,6 +2371,12 @@
       "skillPath": "shared/monthly-digest/SKILL.md",
       "computedHash": "9d4658a81f113b45f1e9473e1e33df13899c223a7b34a3c8fe708b4af962bc1e"
     },
+    "motion-design": {
+      "source": "LottieFiles/motion-design-skill",
+      "sourceType": "github",
+      "skillPath": "skills/motion-design/SKILL.md",
+      "computedHash": "9fcf9130cc46ee8fd1d8e09a9263347a9d76efbcbfa46591cc4cefaf19bbb453"
+    },
     "multi-agent-orchestration": {
       "source": "seb1n/awesome-ai-agent-skills",
       "sourceType": "github",
