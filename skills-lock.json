@@ -1135,6 +1135,12 @@
       "skillPath": "plugins/design-harness/skills/design-harness/SKILL.md",
       "computedHash": "7f576ace484f75202b22313eec7e35bc90e5b987832c57e38dd1dab9b40cb7ac"
     },
+    "design-mobile-apps": {
+      "source": "designed-by-ai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-mobile-apps/SKILL.md",
+      "computedHash": "52c6844cc9284ea07aa0346adc67c64756475e2e29f1233d3a0dc66dba45bdcc"
+    },
     "design-qa": {
       "source": "plugin87/ux-ui-agent-skills",
       "sourceType": "github",
