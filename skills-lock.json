@@ -673,6 +673,12 @@
       "skillPath": "11-customer-success/churn-analysis/SKILL.md",
       "computedHash": "72898aa0d3b22f9f0ce4a8095478090252f9825249c1045cd08d5d4a0cd02e8a"
     },
+    "citation-management": {
+      "source": "lingzhi227/agent-research-skills",
+      "sourceType": "github",
+      "skillPath": "skills/citation-management/SKILL.md",
+      "computedHash": "aae734fe77fa3d2a38ffdc39c2c6d009bbadaa46557c14718003304d68f99385"
+    },
     "claude-handoff": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -792,6 +798,12 @@
       "sourceType": "github",
       "skillPath": "competitive-pricing-strategy/SKILL.md",
       "computedHash": "1282500b0d93f5e73d2c99fe1e45677a8752af4a622e45f5f9b9f737661c8b8f"
+    },
+    "competitor-experience-audit": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/competitor-experience-audit/SKILL.md",
+      "computedHash": "6be67578a63da07d2fb865029de09f6c51e8c90d0e463c4ecdebab5113499382"
     },
     "competitor-price-analysis": {
       "source": "nexscope-ai/eCommerce-Skills",
@@ -1081,6 +1093,12 @@
       "skillPath": "skills/debugging-instruments/SKILL.md",
       "computedHash": "ccaa83079af0dd3be7e2a80503f8b419de470a0c5497b6e6053a6a6eb2fa35b7"
     },
+    "deep-research": {
+      "source": "lingzhi227/agent-research-skills",
+      "sourceType": "github",
+      "skillPath": "skills/deep-research/SKILL.md",
+      "computedHash": "1b143dc30f0ab7938465c71fd9ca498388133c30e2fe52012ca8904c3f4ca8cd"
+    },
     "dei-strategy": {
       "source": "w95/awesome-claude-corporate-skills",
       "sourceType": "github",
@@ -1224,6 +1242,12 @@
       "sourceType": "github",
       "skillPath": "04-marketing/discover-brand/SKILL.md",
       "computedHash": "76ef6eb240ee986fa3909f6c8e26516d1b2f7ea9004cfaa7978374ebc586124b"
+    },
+    "discovery-research-synthesis": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/discovery-research-synthesis/SKILL.md",
+      "computedHash": "49ccfda2ea9929c9ddda24234372d5e1ac1464c784007ee994474532e06938de"
     },
     "django-access-review": {
       "source": "getsentry/skills",
@@ -1423,6 +1447,12 @@
       "skillPath": "skills/econ-write/SKILL.md",
       "computedHash": "d578a4ad898901496259d5429be5c0f2630ade1a9361136cedef0d7ffd6b9c85"
     },
+    "editorial-qa": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/editorial-qa/SKILL.md",
+      "computedHash": "42fe1b80364fbc405f017c5434f662caeb0da3bd894e87c43c6712de9c1f1fc1"
+    },
     "email-marketing": {
       "source": "w95/awesome-claude-corporate-skills",
       "sourceType": "github",
@@ -1602,6 +1632,12 @@
       "sourceType": "github",
       "skillPath": "skills/eventkit/SKILL.md",
       "computedHash": "e042af5dc598f6cf601ed2b5791125ad6407b18304658f9d7784c1c3c748ca2b"
+    },
+    "evidence-based-reviews": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/evidence-based-reviews/SKILL.md",
+      "computedHash": "4482bfe260e68144b289a65eebdce57c7467e0d6b4886092868ac4a849b94e6a"
     },
     "executive-communication": {
       "source": "w95/awesome-claude-corporate-skills",
@@ -1914,6 +1950,12 @@
       "sourceType": "github",
       "skillPath": "skills/homekit/SKILL.md",
       "computedHash": "70319fa0550d943b3c667a14a3a4ee270c0255aa93403277deac75a51c96f80c"
+    },
+    "idea-generation": {
+      "source": "lingzhi227/agent-research-skills",
+      "sourceType": "github",
+      "skillPath": "skills/idea-generation/SKILL.md",
+      "computedHash": "4ce38d23b300a4ca90432bae8d4fca9a8bde05b4df63675e4882b7bef4d8e73a"
     },
     "image-to-code": {
       "source": "Leonxlnx/taste-skill",
@@ -2281,6 +2323,18 @@
       "skillPath": "personal/lifestyle-creep/SKILL.md",
       "computedHash": "5aea1d63084eb2e72ebb7460ee7f3d7e51b6df3eba6daa7828b69185856240ae"
     },
+    "literature-review": {
+      "source": "lingzhi227/agent-research-skills",
+      "sourceType": "github",
+      "skillPath": "skills/literature-review/SKILL.md",
+      "computedHash": "42bf6244bf3d5b78f951f7a1c1873be8f0eabc979da83e8c98635b1f49f6edf0"
+    },
+    "literature-search": {
+      "source": "lingzhi227/agent-research-skills",
+      "sourceType": "github",
+      "skillPath": "skills/literature-search/SKILL.md",
+      "computedHash": "d587db98be3cf930570e6604d1036977e80db3a087bf0c1dd604b65ee336c202"
+    },
     "loop-me": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -2604,6 +2658,12 @@
       "sourceType": "github",
       "skillPath": "SKILL.md",
       "computedHash": "c0d09c50ada892b10ffe9a726e6d12f09ac7c99d9621d5c31cec954ea27154d4"
+    },
+    "novelty-assessment": {
+      "source": "lingzhi227/agent-research-skills",
+      "sourceType": "github",
+      "skillPath": "skills/novelty-assessment/SKILL.md",
+      "computedHash": "232745e9ebc3dea80ab356dbff5f93fc275512e6b8f3ddd09c045e9a4a4f319a"
     },
     "onboarding-planner": {
       "source": "w95/awesome-claude-corporate-skills",
@@ -4140,6 +4200,12 @@
       "sourceType": "github",
       "skillPath": "09-product-management/user-research-synthesizer/SKILL.md",
       "computedHash": "601cfb62eb0ee78b47f094773c02dffff56c033615e0ef59eafeb0d0efe59dbb"
+    },
+    "ux-research": {
+      "source": "rampstackco/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ux-research/SKILL.md",
+      "computedHash": "d7d03deb225d9ef140d32ff3faa1b450fde4887ec0711b05ac4ca339a3cbae12"
     },
     "ux-writing": {
       "source": "content-designer/ux-writing-skill",
