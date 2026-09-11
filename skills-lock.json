@@ -3037,6 +3037,12 @@
       "skillPath": "11-customer-success/qbr-builder/SKILL.md",
       "computedHash": "f77c9b96e1efbd160071b9948e9acdbbb061d4b2f9eaf00ed30cc80de2caf954"
     },
+    "qr-code-generator": {
+      "source": "takusaotome/claude-skills-library",
+      "sourceType": "github",
+      "skillPath": "skills/qr-code-generator/SKILL.md",
+      "computedHash": "69287dc394bb6919e407239699b4a04aa38516c21781180e9de148b916a14ad5"
+    },
     "quarterly-taxes": {
       "source": "openaccountant/skills",
       "sourceType": "github",
@@ -3343,11 +3349,29 @@
       "skillPath": "04-marketing/seo-content-optimizer/SKILL.md",
       "computedHash": "392f91ef3967c696015291ecd1cc83fccf6a269a94106320b27d5f2e8afd34bf"
     },
+    "seo-google": {
+      "source": "AgriciDaniel/claude-seo",
+      "sourceType": "github",
+      "skillPath": "skills/seo-google/SKILL.md",
+      "computedHash": "713b408e78b5953e2387454c7b41c0f78bb1e15106f240ff5c3d10209ebf254b"
+    },
     "seo-landing": {
       "source": "aleksandr-alhoff/seo-landing",
       "sourceType": "github",
       "skillPath": "SKILL.md",
       "computedHash": "187003515b0eb3c805a409c1e2dad9208fddb918e88e40befcbc33a6a1ea47b8"
+    },
+    "seo-local": {
+      "source": "AgriciDaniel/claude-seo",
+      "sourceType": "github",
+      "skillPath": "skills/seo-local/SKILL.md",
+      "computedHash": "bcb9859560bbf8f004f95b5f5aec978739f9eda47608366145f292e8899604e1"
+    },
+    "seo-maps": {
+      "source": "AgriciDaniel/claude-seo",
+      "sourceType": "github",
+      "skillPath": "skills/seo-maps/SKILL.md",
+      "computedHash": "4deeb3eb3fe41e44f6ac69ecf6f709f56f892601e240600c844e6f7794e9b9b6"
     },
     "seo-onpage": {
       "source": "rampstackco/claude-skills",
