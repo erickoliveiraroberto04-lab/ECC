@@ -8,8 +8,9 @@ description: >-
   free-design-resources (which covers raw assets: colors, fonts, icons,
   stock photos) — this skill is for the "how should this look" and
   "AI can build a first draft" side of design work. Curated independently
-  from awareness of darelova/Awesome-Design-Resources-List's category
-  structure; entries and descriptions are original.
+  from awareness of darelova/Awesome-Design-Resources-List's and
+  noobnooc/awesome-design-dev's category structures; entries and
+  descriptions are original.
 ---
 
 # Design Inspiration and AI Tools
@@ -59,6 +60,12 @@ to the right tool instead of browsing from scratch.
 | [Tailwind Plus (components)](https://tailwindcss.com/plus/ui-blocks) | Industry-standard Tailwind component blocks |
 | [Radix UI](https://www.radix-ui.com/) | Accessible, unstyled component primitives |
 | [Preline UI](https://preline.co/) | Free, open-source Tailwind component library |
+| [daisyUI](https://daisyui.com/) | Tailwind plugin — semantic class names instead of long utility strings |
+| [Magic UI](https://magicui.design/) | Free animated components (React/TypeScript/Tailwind/Motion) — good for landing-page flourish |
+| [Mantine](https://mantine.dev/) | Full React component library with built-in theming and hooks, good for admin/dashboard UIs |
+| [Ant Design](https://ant.design/) | Enterprise-grade React components — dense, data-heavy interfaces |
+| [Chakra UI](https://chakra-ui.com/) | Simple, accessible React components, easy theming |
+| [Base UI](https://base-ui.com/) | Unstyled accessible primitives from the Radix/Floating UI/Material UI creators |
 
 ### AI Generative Tools
 
@@ -88,6 +95,24 @@ to the right tool instead of browsing from scratch.
 | [Shopify Polaris](https://polaris-react.shopify.com/) | E-commerce-specific UI patterns |
 | [Atlassian Design System](https://atlassian.design/) | Clean documentation style, good structure reference |
 | [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | iOS/mobile interaction conventions |
+
+### Broader Design Tools (beyond Figma)
+
+| Tool | Best for |
+|------|----------|
+| [Penpot](https://penpot.app/) | Free, open-source design tool — a real Figma alternative with no paywall |
+| [Rive](https://rive.app/) | Interactive/animated UI elements that stay lightweight in production |
+| [Lottielab](https://www.lottielab.com/) | Motion design for product UI, exports to Lottie for web/app use |
+| [ray.so](https://ray.so/) | Turns a code snippet into a polished shareable image — handy for technical case studies |
+| [tldraw](https://www.tldraw.com/) | Infinite collaborative whiteboard for sketching a layout or flow with a client live |
+
+### Learning References & Communities
+
+| Resource | Best for |
+|----------|----------|
+| [Laws of UX](https://lawsofux.com/) | Quick-reference psychology principles behind common UI decisions |
+| [Refactoring UI](https://www.refactoringui.com/) | Practical, non-designer-friendly guide to making interfaces look polished |
+| [21st.dev](https://21st.dev/) | Community of design engineers sharing components and techniques |
 
 ### Useful Figma Plugins
 
