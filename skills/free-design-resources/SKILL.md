@@ -62,6 +62,13 @@ category that matches what's needed.
 | [Font Squirrel](https://www.fontsquirrel.com/) | Vetted free-for-commercial-use fonts |
 | [Fontshare](https://www.fontshare.com/) | Higher-end free fonts (Indian Type Foundry) |
 
+Open-source alternatives to a system UI font (useful when a client wants
+something distinctive but free): [Inter](https://rsms.me/inter/) (general
+UI text), [IBM Plex](https://github.com/IBM/plex) (a full family — sans,
+serif, and mono), [Manrope](https://manropefont.com/) (geometric sans),
+[Space Grotesk](https://github.com/floriankarsten/space-grotesk)
+(distinctive display sans).
+
 ### Icons
 
 | Tool | Best for |
