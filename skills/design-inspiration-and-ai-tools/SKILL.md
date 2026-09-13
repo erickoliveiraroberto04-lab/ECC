@@ -95,6 +95,27 @@ to the right tool instead of browsing from scratch.
 | [Shopify Polaris](https://polaris-react.shopify.com/) | E-commerce-specific UI patterns |
 | [Atlassian Design System](https://atlassian.design/) | Clean documentation style, good structure reference |
 | [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | iOS/mobile interaction conventions |
+| [IBM Carbon](https://carbondesignsystem.com/) | Enterprise/data-dense product patterns, strong accessibility docs |
+| [GitHub Primer](https://primer.style/) | Developer-tool UI conventions, dark-mode-first thinking |
+| [GOV.UK Design System](https://design-system.service.gov.uk/) | Plain-language, accessibility-first government service patterns |
+| [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/) | Complex form-heavy business-app patterns |
+
+For a much larger index of real companies' design systems (100+ more
+examples than fit here), see alexpate/awesome-design-systems on GitHub.
+
+### AI-Readable Design Docs (DESIGN.md)
+
+A newer pattern: a single `DESIGN.md` markdown file describing a site's
+visual language (colors, type, spacing, tone) in plain text, so an AI
+coding agent can generate UI that matches it without a Figma export or
+design tokens file. Useful two ways:
+
+- **As a reference**: read a well-known brand's `DESIGN.md` (e.g. via
+  [getdesign.md](https://getdesign.md/)) to see how a professional design
+  language gets written down concisely.
+- **As a deliverable**: write one for a client's brand once established,
+  so any future AI-assisted work (yours or theirs) stays visually
+  consistent without re-explaining the brand each time.
 
 ### Broader Design Tools (beyond Figma)
 
